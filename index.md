@@ -6,8 +6,9 @@ layout: default
     <div class="container">
         <div class="hero-content">
             <div class="hero-text">
-                <h1>Psicóloga en Granada - Carmen María Martín Fuentes</h1>
-                <h2>Terapia EMDR, Ansiedad, Depresión y Bienestar Emocional</h2>
+                <h1>Psicóloga EMDR en Granada</h1>
+                <h2>Carmen María Martín Fuentes</h2>
+                <h3>Terapia EMDR, Ansiedad, Depresión y Bienestar Emocional</h3>
                 <p class="hero-description">
                     Especialista en EMDR y Orientación.
                     Te acompaño en tu proceso de bienestar emocional con terapia presencial en Granada y online.
