@@ -4,8 +4,6 @@ title: Ansiedad y Estrés
 permalink: /ansiedad/
 ---
 
-# Ansiedad y Estrés
-
 ## El Sistema de Alarma que se Quedó Atascado
 
 Imagina que tienes un sistema de seguridad en casa que, en lugar de activarse solo cuando hay un intruso real, comienza a sonar cada vez que pasa un gato por el jardín, cuando llueve, o incluso cuando no pasa absolutamente nada. Esto es exactamente lo que sucede con la ansiedad.

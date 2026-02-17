@@ -4,8 +4,6 @@ title: Trastornos de la Conducta Alimentaria (TCA)
 permalink: /trastornos-conducta-alimentaria/
 ---
 
-# Trastornos de la Conducta Alimentaria (TCA)
-
 ## Psicóloga Especialista en Trastornos Alimentarios: Tu Camino Hacia la Recuperación
 
 ### El Espejo Que Miente: Comprendiendo los Trastornos de la Conducta Alimentaria

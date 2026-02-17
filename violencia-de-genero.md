@@ -4,8 +4,6 @@ title: Violencia de Género
 permalink: /violencia-de-genero/
 ---
 
-# Psicóloga Especialista en Violencia de Género: Recupera tu Vida con Terapia Especializada
-
 ## La Historia de María: De la Violencia Psicológica a la Libertad
 
 *Al principio, María pensaba que era normal. "Todos los hombres son celosos", se decía. "Me controla porque me quiere", se repetía cada vez que él revisaba su móvil. Tardó años en darse cuenta de que **el amor verdadero no duele, no controla, no humilla**.*
