@@ -471,17 +471,18 @@ a.service-card {
     border-radius: 30px;
     margin: 2rem 0;
     text-align: center;
-    color: var(--white);
+    color: var(--light-cream);
 }
 
 .cta h2 {
-    color: var(--white);
+    color: var(--light-cream);
     margin-bottom: 1rem;
 }
 
 .cta p {
     font-size: 1.2rem;
     margin-bottom: 2rem;
+    color: var(--light-cream);
 }
 
 .btn-large {
@@ -513,9 +514,15 @@ a.service-card {
 /* Footer */
 .site-footer {
     background-color: var(--primary-brown);
-    color: var(--white);
+    color: var(--light-cream);
     padding: 3rem 0 1rem;
     margin-top: 4rem;
+}
+
+.site-footer p,
+.site-footer ul,
+.site-footer ol {
+    color: var(--light-cream);
 }
 
 .footer-content {
