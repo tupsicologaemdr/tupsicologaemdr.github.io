@@ -7,6 +7,18 @@ p, .page-content p, .approach p, .modalities p, .services-preview p, .site-foote
     line-height: 1.7;
 }
 
+/* Links within paragraphs inherit text color */
+p a {
+    color: var(--primary-brown);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+p a:hover {
+    color: var(--secondary-brown);
+    text-decoration: underline;
+}
+
 ul, .page-content ul, .approach ul, .modalities ul, .services-preview ul, .site-footer ul {
     padding-left: 2em;
     margin-bottom: 1.5rem;
@@ -549,6 +561,17 @@ a.service-card {
 
 .footer-links a:hover {
     color: var(--primary-pink);
+}
+
+.site-footer p a {
+    color: var(--light-cream);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.site-footer p a:hover {
+    color: var(--primary-pink);
+    text-decoration: underline;
 }
 
 .footer-bottom {

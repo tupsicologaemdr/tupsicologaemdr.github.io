@@ -9,7 +9,7 @@
 
             <div class="footer-section">
                 <h3>Contacto</h3>
-                <p>{{ site.phone }}</p>
+                <p><a href="tel:{{ site.phone | remove: ' ' }}">{{ site.phone }}</a></p>
                 <p>{{ site.email }}</p>
                 <p>{{ site.address }}</p>
             </div>

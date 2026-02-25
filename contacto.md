@@ -70,7 +70,7 @@ subtitle: Da el primer paso hacia tu bienestar
 
                 <div class="info-item">
                     <h3>📞 Teléfono</h3>
-                    <p>{{ site.phone }}</p>
+                    <p><a href="tel:{{ site.phone | remove: ' ' }}">{{ site.phone }}</a></p>
                     <p class="small">Horario de atención telefónica:<br>L-V de 10:00 a 14:00 y 16:00 a 20:00</p>
                 </div>
 
