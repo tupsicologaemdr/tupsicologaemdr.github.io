@@ -551,6 +551,17 @@ a.service-card {
     color: var(--primary-pink);
 }
 
+.site-footer p a {
+    color: var(--light-cream);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.site-footer p a:hover {
+    color: var(--primary-pink);
+    text-decoration: underline;
+}
+
 .footer-bottom {
     text-align: center;
     padding-top: 2rem;
