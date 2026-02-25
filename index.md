@@ -6,12 +6,12 @@ layout: default
     <div class="container">
         <div class="hero-content">
             <div class="hero-text">
-                <h1>Psicóloga EMDR en Granada</h1>
+                <h1>Psicóloga EMDR en Granada (Zaidín)</h1>
                 <h2>Carmen María Martín Fuentes</h2>
                 <h3>Terapia EMDR, Ansiedad, Depresión y Bienestar Emocional</h3>
                 <p class="hero-description">
                     Especialista en EMDR y Orientación.
-                    Te acompaño en tu proceso de bienestar emocional con terapia presencial en Granada y online.
+                    Te acompaño en tu proceso de bienestar emocional con terapia presencial en Granada (Zaidín) y online.
                 </p>
                 <div class="hero-buttons">
                     <a href="/contacto" class="btn btn-primary">Solicitar Primera Consulta</a>
@@ -26,7 +26,7 @@ layout: default
 
 <section class="services-preview">
     <div class="container">
-        <h2 class="section-title">Servicios de Psicología en Granada</h2>
+        <h2 class="section-title">Servicios de Psicología en Granada (Zaidín)</h2>
 
         <div class="services-grid">
             <a href="/ansiedad/" class="service-card">
@@ -156,12 +156,12 @@ layout: default
     </div>
 </section>
     <div class="container">
-        <h2 class="section-title">Modalidades de Terapia en Granada y Online</h2>
+        <h2 class="section-title">Modalidades de Terapia en Granada (Zaidín) y Online</h2>
 
         <div class="modalities-grid">
             <div class="modality-card">
                 <h3>Terapia Presencial</h3>
-                <p>En mi consulta de Granada. Un espacio cálido y acogedor diseñado para tu comodidad.</p>
+                <p>En mi consulta de Granada (Zaidín). Un espacio cálido y acogedor diseñado para tu comodidad.</p>
                 <ul>
                     <li>Ambiente tranquilo y privado</li>
                     <li>Fácil acceso y aparcamiento</li>
@@ -185,7 +185,7 @@ layout: default
 <section class="cta">
     <div class="container">
         <div class="cta-content">
-            <h2>Reserva tu consulta de psicología en Granada</h2>
+            <h2>Reserva tu consulta de psicología en Granada (Zaidín)</h2>
             <p>Estoy aquí para acompañarte en tu proceso de cambio</p>
             <a href="/contacto" class="btn btn-primary btn-large">Reservar Primera Consulta</a>
         </div>
