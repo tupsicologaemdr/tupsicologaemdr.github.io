@@ -131,28 +131,13 @@ layout: default
 </section>
 
 <section class="modalities">
-<!-- Testimonios de pacientes -->
+<!-- Testimonios de pacientes - Widget de Google Reviews -->
 <section class="testimonials">
     <div class="container">
         <h2 class="section-title">Opiniones de pacientes sobre la terapia psicológica</h2>
-        <div class="testimonials-grid">
-            <div class="testimonial-card">
-                <span class="testimonial-quote">“</span>
-                <p>Carmen María Martín es una excelente psicóloga. Me está tratando en estos momentos porque soy una superviviente de la Dana y lo he perdido todo y ella con su sesiones me está ayudando muchísimo pues tenía muchos ataques de ansiedad y ahora casi no tengo, yo sin duda la escogería mil veces.</p>
-            </div>
-            <div class="testimonial-card">
-                <span class="testimonial-quote">“</span>
-                <p>Gran profesional, me ha ayudado a superar todos mis problemas. Muchas gracias Carmen por todo.</p>
-            </div>
-            <div class="testimonial-card">
-                <span class="testimonial-quote">“</span>
-                <p>A mi hija la veo genial, cada día mejor, ha identificado muchas cosas que le pasaban y no sabía ponerles nombre... y cada día me habla más y me cuenta lo que siente y demás, algo que antes no hacía tanto, por lo demás muy bien, asimila las cosas mejor, más madura y desde otra perspectiva que antes no tenía, así que buen trabajo, muchas gracias.</p>
-            </div>
-            <div class="testimonial-card">
-                <span class="testimonial-quote">“</span>
-                <p>Gracias por la labor que has hecho en ayudar a mi hija, de verdad parece otra se siente ya como ella era. De verdad un millón de gracias.</p>
-            </div>
-        </div>
+
+        <div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>
+
     </div>
 </section>
     <div class="container">
