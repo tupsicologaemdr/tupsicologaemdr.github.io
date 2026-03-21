@@ -32,7 +32,7 @@ subtitle: Conoce mi trayectoria y enfoque terapéutico
         </p>
 
         <h2>¿Mi mayor privilegio? Trabajar en lo que más amo</h2>
-        
+
         <p>
             No todo el mundo tiene la suerte de levantarse cada día sabiendo que va a dedicar su tiempo a lo que realmente le apasiona. <strong>Mi gran afición es ayudar a las personas, y tengo el privilegio de vivir de ello.</strong>
         </p>
