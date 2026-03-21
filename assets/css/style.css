@@ -34,6 +34,24 @@ ol, .page-content ol, .approach ol, .modalities ol, .services-preview ol, .site-
     color: var(--text-light);
     list-style: decimal inside;
 }
+
+/* Quotations in long-form content */
+blockquote, .page-content blockquote {
+    margin: 1.75rem 0;
+    padding: 1rem 1.25rem;
+    border-left: 4px solid var(--secondary-pink);
+    border-radius: 0 10px 10px 0;
+    background: var(--cream);
+    box-shadow: 0 2px 8px var(--shadow-light);
+}
+
+blockquote p, .page-content blockquote p {
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--text-dark);
+    font-style: italic;
+}
 /* About: credentials badge */
 .credentials {
     display: inline-block;
@@ -691,6 +709,12 @@ a.service-card {
     .about-intro {
         grid-template-columns: 1fr;
         text-align: center;
+    }
+
+    blockquote,
+    .page-content blockquote {
+        margin: 1.25rem 0;
+        padding: 0.85rem 1rem;
     }
 }
 
