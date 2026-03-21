@@ -4,195 +4,122 @@ title: Violencia de Género
 permalink: /violencia-de-genero/
 ---
 
-## La Historia de María: De la Violencia Psicológica a la Libertad
+## Mi historia
 
-*Al principio, María pensaba que era normal. "Todos los hombres son celosos", se decía. "Me controla porque me quiere", se repetía cada vez que él revisaba su móvil. Tardó años en darse cuenta de que **el amor verdadero no duele, no controla, no humilla**.*
+Desde muy joven me preocupó la igualdad de género. Siendo adolescente, comencé a asistir a congresos y jornadas sobre feminismo, igualdad y violencias machistas. Quería entender cómo se producen estas desigualdades y cómo ayudar a las mujeres a reconocerse y valorarse.
 
-*El día que María llegó a consulta, apenas podía mirarme a los ojos. Hablaba en susurros, como si tuviera miedo de que alguien la escuchara. "No sé si esto es violencia", me dijo. "Él nunca me ha pegado".*
+Mi sensibilidad creció cuando viví en mis propias carnes el abuso narcisista y otras experiencias que me hicieron sentir vulnerable. Desde entonces, me he trabajado personalmente desde distintos enfoques terapéuticos y puedo comprender profundamente a las mujeres que sufren violencias machistas. **Mi compromiso es claro: empoderar a cada mujer que pasa por mi consulta para que integre su malestar y tenga las herramientas para no volver a caer en el abuso.**
 
-*Hoy, dos años después, María tiene una sonrisa que ilumina la habitación. Vive sola, ha retomado sus estudios y, por primera vez en mucho tiempo, toma sus propias decisiones. **El camino no fue fácil, pero fue posible**.*
+Hoy acompaño a mujeres a quererse, valorarse y darse cuenta de que, aunque hayan estado atrapadas en un ciclo difícil, **sí hay salida y es posible volver a sentirse libres.**
 
-*Su mensaje para otras mujeres: "Si yo pude salir, tú también puedes. No estás sola, y sí tienes salida".*
+Sé lo que se siente cuando cada mensaje, llamada o interacción con el ex activa ansiedad, miedo o dolor que parece imposible de controlar.
 
-## Tratamiento Psicológico Especializado en Violencia de Género
+He escuchado muchas veces frases como estas:
 
-Puede que ahora mismo sientas que estás en un laberinto sin salida, pero déjame contarte algo que he visto una y otra vez en mi consulta: **siempre hay una puerta, siempre hay esperanza, siempre hay una forma de recuperar tu vida**.
+> "Tengo ataques de pánico en mitad de la noche."
 
-### Tu Proceso de Sanación Será Único
+El cuerpo procesa de noche lo que no puede procesar de día. Los ataques de pánico nocturnos son muy comunes después de una relación traumática. Son una señal de que necesitas apoyo, no de que estés rota.
 
-Como psicóloga especializada en trauma y violencia de género, trabajo con terapias específicas para ayudarte a recuperar tu vida:
+> "Un email suyo puede arruinarme el día entero."
 
-- **EMDR (Eye Movement Desensitization and Reprocessing)**: Para procesar el trauma sin necesidad de revivir cada detalle doloroso
-- **Terapia Somática**: Para liberar la tensión almacenada en tu cuerpo y recuperar la conexión contigo misma
-- **IFS (Internal Family Systems)**: Para sanar las diferentes partes de tu experiencia interna y recuperar tu fortaleza
+Cuando alguien ha tenido tanto poder sobre ti, tu sistema nervioso aprende a estar en alerta constante. No es debilidad, es una respuesta condicionada. Se puede desaprender.
 
-Cada mujer que ha pasado por mi consulta ha tenido su propio ritmo, sus propios miedos, sus propias fortalezas. Algunas llegan preguntándose si lo que viven es "realmente" violencia. Otras ya lo tienen claro pero no saben cómo salir.
+> "Mi mente sabe una cosa, pero mi corazón otra."
 
-**Lo que todas tienen en común es que encontraron su camino hacia la libertad.**
+Eso es exactamente lo que ocurre en el trauma relacional: la lógica y la emoción van por caminos distintos. El trabajo terapéutico es precisamente ayudar a que vuelvan a hablarse.
 
-### ¿Qué Hace Posible la Salida de la Violencia de Género?
+> "Incluso decir algo normal puede desencadenarlo."
 
-✓ **Reconocer que lo que vives no es amor** (aunque él te diga lo contrario)
+Caminar de puntillas alrededor de otra persona durante años deja huella. Esa huella no es tuya para cargar sola, y no tienes que seguir haciéndolo.
 
-✓ **Entender que no es tu culpa** (por mucho que te haya hecho creerlo)
+> "Tengo ataques de pánico en mitad de la noche."
 
-✓ **Conectar con tu fuerza interior** (esa que él ha intentado apagar pero que sigue ahí)
+El cuerpo procesa de noche lo que no puede procesar de día. Los ataques de pánico nocturnos son muy comunes después de una relación traumática. Son una señal de que necesitas apoyo, no de que estés rota.
 
-✓ **Construir una red de apoyo segura** (profesionales, familia, amigas que te crean)
+> "Estoy peor después de dejar la relación."
 
-✓ **Planificar tu salida de forma segura** (porque tu seguridad es lo primero)
+Paradójicamente, es muy frecuente. Mientras estás dentro, el modo supervivencia te mantiene funcionando. Al salir, el cuerpo y la mente empiezan a procesar todo lo que habían bloqueado. Estar peor al salir no significa que salir fuera un error.
 
-El proceso no es lineal, y está bien. Habrá días buenos y días difíciles. Pero cada pequeño paso cuenta, cada "no" que le digas cuenta, cada vez que priorizas tu bienestar cuenta.
+**Es normal sentirse así después de una relación dañina. No es culpa tuya.** Lo que sientes es una reacción natural de tu cuerpo y tu mente a experiencias traumáticas.
+Mi trabajo es acompañarte para que recuperes la calma, la claridad y la sensación de control, sin culpas ni presiones. Aprenderás a poner límites, a no activarte automáticamente ante situaciones que antes te bloqueaban, y a reconectar con tu propia fuerza. Porque sí es posible volver a sentir paz y seguridad, paso a paso.
+
+## Tratamiento Psicológico Especializado en Violencia de Género en Granada
+
+Como psicóloga especializada en trauma y violencia de género, trabajo con tres enfoques complementarios:
+
+- **EMDR:** Para procesar el trauma sin necesidad de revivir cada detalle doloroso.
+- **Terapia Somática:** Para liberar la tensión almacenada en el cuerpo y recuperar la conexión contigo misma.
+- **IFS (Internal Family Systems):** Para sanar las diferentes partes de tu experiencia interna y recuperar tu fortaleza.
+
+Cada mujer tiene su propio ritmo, sus propios miedos y sus propias fortalezas. Algunas llegan preguntándose si lo que viven "es realmente violencia". Otras ya lo tienen claro pero no saben cómo salir. **Lo que todas tienen en común es que encontraron su camino hacia la libertad.**
 
 ## Señales de Violencia de Género: ¿Es Maltrato Psicológico?
 
-Si mientras lees esto algo resuena en tu interior, confía en esa voz. Tu intuición ya te está dando la respuesta.
+Si algo resuena en ti mientras lees esto, confía en esa voz. Tu intuición ya te está dando la respuesta.
 
-### Tipos de Violencia de Género que Debes Reconocer
+**Control disfrazado de cuidado:** revisar tu móvil sin permiso, controlar tu dinero, decidir con quién puedes hablar, prohibirte trabajar o estudiar.
 
-#### Control disfrazado de cuidado
+**Violencia psicológica y emocional:** insultos y desprecios constantes, culparte de sus reacciones, chantaje emocional ("si me dejas me mato"), hacerte sentir que no vales nada.
 
-- Revisar tu móvil sin permiso
-- Decidir con quién puedes hablar
-- Controlar tu dinero o gastos
-- Prohibirte trabajar o estudiar
+**Aislamiento social:** alejarte de familia y amigas, criticar a las personas que te quieren.
 
-#### Violencia psicológica y emocional
+**Manipulación y gaslighting:** hacerte creer que estás loca, negar situaciones reales, distorsionar tu percepción ("exageras", "eres demasiado sensible").
 
-- Insultos y desprecios constantes
-- Hacerte sentir que no vales nada
-- Culparte de sus reacciones violentas
-- Chantaje emocional: "Si me dejas me mato"
+**Amenazas y coacciones:** "si me dejas te arrepentirás", amenazas hacia tus hijos, familia o mascotas.
 
-#### Aislamiento social
+**Violencia sexual:** presionarte para mantener relaciones sin tu consentimiento o con chantaje emocional.
 
-- Alejarte de familia y amigas "porque no te convienen"
-- Criticar constantemente a las personas que te quieren
-- Impedir que mantengas tus amistades
+**No hace falta que te pegue para que sea violencia**
 
-#### Manipulación y gaslighting
-
-- Hacerte creer que estás loca
-- Negar situaciones que realmente ocurrieron
-- Distorsionar tu percepción de la realidad
-- "Exageras", "eres demasiado sensible"
-
-#### Amenazas y coacciones
-
-- "Como se lo digas a alguien..."
-- "Si me dejas, te arrepentirás"
-- Amenazas hacia tus hijos, familia o mascotas
-
-Violencia sexual:
-
-- Obligarte a mantener relaciones cuando no quieres
-- Ignorar tu falta de consentimiento
-- Presionarte con chantaje emocional
-
-### No Hace Falta que Te Pegue para que Sea Violencia
-
-**La violencia psicológica duele tanto como la física**. Las heridas emocionales también sangran, aunque no se vean. El maltrato psicológico es violencia de género y tiene consecuencias graves en tu salud mental y física.
+**La violencia psicológica duele tanto como la física.** Las heridas emocionales también sangran, aunque no se vean.
 
 ## Síntomas de Haber Sufrido Violencia de Género
 
-¿Esto te suena familiar? No estás imaginándote cosas. Tu cuerpo y tu mente ya te están enviando señales.
 
-### Síntomas Psicológicos del Maltrato:
+**Síntomas psicológicos:** ansiedad constante, pérdida de confianza en tu propia percepción, sensación de caminar sobre cáscaras de huevo, aislamiento social, estrés postraumático.
 
-**Tu mente te está protegiendo cuando:**
+**Síntomas físicos:** insomnio o pesadillas, tensión muscular, dolores de cabeza, fatiga extrema, palpitaciones y ataques de pánico.
 
-- Sientes **ansiedad constante**, especialmente cuando él está cerca
-- Te descubres justificando su comportamiento
-- Has perdido la confianza en tu propia percepción
-- Sientes que caminas sobre cáscaras de huevo para no "provocarlo"
-- Te has aislado de personas importantes para ti
-- Experimentas **trastorno de estrés postraumático**
+**Señales emocionales:** sensación de vacío, desconexión contigo misma, pensamientos de "no valgo nada", vivir la vida de otra persona.
 
-### Síntomas Físicos del Trauma por Violencia:
+**Estos síntomas no son tu culpa. Son la respuesta normal de una persona extraordinaria en una situación anormal.**
 
-**Tu cuerpo te está alertando con:**
-
-- **Insomnio** o pesadillas recurrentes
-- Problemas digestivos sin causa médica
-- Tensión muscular constante, dolores de cabeza
-- **Fatiga extrema** (vivir en alerta agota)
-- Cambios bruscos en el apetito
-- Palpitaciones y ataques de pánico
-
-### Señales Emocionales que No Puedes Ignorar:
-
-**Tu alma se está defendiendo cuando:**
-
-- Sientes que has perdido la conexión contigo misma
-- Ya no disfrutas cosas que antes te gustaban
-- Te sientes vacía, como una sombra de quien eras
-- Tienes pensamientos de "no valgo nada"
-- Sientes que vives la vida de otra persona
-
-**Estos síntomas no son tu culpa, son la respuesta normal de una persona extraordinaria en una situación anormal.**
-
-Si te reconoces en estas líneas, quiero que sepas algo: no estás loca, **no estás exagerando, y definitivamente no estás sola.**
-
-Tu valentía para buscar información, para leer hasta aquí, para cuestionarte lo que vives... esa valentía ya es el primer paso hacia tu libertad.
+Si te reconoces aquí: no estás loca, no estás exagerando, y no estás sola. Tu valentía para llegar hasta aquí ya es el primer paso.
 
 ## Terapia para Superar la Violencia de Género en Granada
 
-El camino hacia tu nueva vida comienza con una conversación. No tienes que tenerlo todo claro para dar el primer paso. No tienes que tener un plan perfecto. Solo tienes que tener el coraje de decir **"merezco algo mejor"** y buscar ayuda profesional.
+El camino hacia tu nueva vida comienza con una conversación. No tienes que tenerlo todo claro para dar el primer paso. Solo necesitas creer que mereces algo mejor.
+Puedo ayudarte a procesar el trauma de forma segura, recuperar tu autoestima, reconectar con tu cuerpo y emociones, y construir una vida libre de violencia.
 
-**Estoy aquí para acompañarte en este camino hacia tu libertad.** Como psicóloga especializada en trauma con EMDR, terapia somática e IFS, puedo ayudarte a:
+### 📞 Recursos de emergencia
 
-- Procesar el trauma de forma segura
-- Recuperar tu autoestima
-- Reconectar con tu cuerpo y emociones
-- Sanar las heridas internas
-- Construir una vida libre de violencia
+- **016 –** Teléfono contra la violencia de género (24h, no deja rastro en la factura)
+- **112 –** Emergencias
+- **WhatsApp 600 000 016 –** Atención psicológica inmediata
+- **Teléfono de la Esperanza Granada:** 958 261 516
 
-Tu historia puede cambiar, y juntas podemos escribir un final diferente.
+## Preguntas Frecuentes sobre Violencia de Género y Terapia
 
-### 📞 Recursos de Emergencia en Violencia de Género:
-
-- **016**: Teléfono contra la violencia de género (no deja rastro en la factura, disponible 24h)
-- **112**: Emergencias
-- **WhatsApp 600 000 016**: Atención psicológica inmediata
-- **Teléfono de la Esperanza**: 958 261 516
-
-## Preguntas Frecuentes
-
-**¿Cómo sé si necesito terapia especializada en violencia de género?** \
+**¿Cómo sé si necesito terapia especializada en violencia de género?**  
 Si experimentas ansiedad constante, flashbacks, dificultad para confiar, hipervigilancia, problemas de sueño o sensación de estar "bloqueada", la terapia puede ayudarte. No necesitas estar en crisis para buscar apoyo.
 
-**¿Qué tipo de tratamiento utilizas?** \
-Trabajo con un enfoque integral que combina EMDR para procesar el trauma, terapia somática para reconectar con tu cuerpo, e IFS para sanar las diferentes partes de tu experiencia interna. Esta combinación permite abordar el trauma desde múltiples niveles.
+**¿Tendré que contar todos los detalles de lo que viví?**  
+No necesariamente. Con EMDR podemos trabajar el trauma sin revivir cada situación en detalle. Tú decides qué compartes y cuándo estás preparada.
 
-**¿Cuánto tiempo dura el tratamiento?** \
-Cada proceso es único. La mayoría de personas experimentan cambios significativos en 3-6 meses, aunque puede variar según tu situación. Lo importante es trabajar a tu ritmo, sin presiones.
+**¿Puedo hacer terapia si aún estoy en la relación?**  
+Sí. Podemos trabajar en estabilización, fortalecimiento y planificación de seguridad hasta que puedas dar ese paso. Tu seguridad siempre es la prioridad.
 
-**¿Tendré que contar todos los detalles de lo que viví?** \
-No necesariamente. Con EMDR podemos trabajar el trauma sin que tengas que revivir cada situación en detalle. Tú decides qué compartes y cuándo te sientes preparada.
+**¿Cuánto tiempo dura el tratamiento?**  
+Cada proceso es único. La mayoría experimenta cambios significativos en 3–6 meses, aunque puede variar. Lo importante es trabajar a tu ritmo, sin presiones.
 
-**¿Es doloroso emocionalmente el proceso?** \
-Pueden surgir emociones intensas, pero trabajamos con técnicas de estabilización y siempre a tu ritmo. El objetivo es procesar el trauma de forma segura, no retraumatizarte. Siempre tienes el control del proceso.
+**¿Es normal tener sentimientos contradictorios hacia mi agresor?**  
+Completamente normal. Puedes sentir miedo y querer volver al mismo tiempo, rabia y culpa a la vez. Con IFS trabajamos estas partes sin juzgarlas, ayudándote a encontrar claridad desde tu propia sabiduría.
 
-**¿Puedo hacer terapia si aún estoy en una relación de violencia?** \
-Lo ideal es estar en un entorno seguro, pero podemos trabajar en estabilización, fortalecimiento y planificación de seguridad hasta que puedas dar ese paso. Tu seguridad es siempre la prioridad.
+**¿Es posible recuperarse completamente?**  
+Sí. Muchas supervivientes no solo superan el trauma, sino que experimentan crecimiento postraumático: mayor fortaleza, límites más claros y relaciones más sanas. El trauma no tiene que definir tu futuro.
 
-**¿Por qué siento que mi cuerpo está desconectado o tenso todo el tiempo?** \
-El trauma se almacena también en el cuerpo, creando tensión crónica, dolor o desconexión. Es una respuesta de supervivencia normal. La terapia somática te ayudará a liberar esta activación y recuperar la comodidad en tu cuerpo.
-
-**¿Es normal tener pensamientos contradictorios sobre mi agresor?** \
-Completamente normal. Puedes sentir miedo y a la vez querer volver, rabia y culpa al mismo tiempo. Con IFS trabajamos estas partes internas sin juzgarlas, ayudándote a encontrar claridad desde tu sabiduría interior.
-
-**¿Puedo tener síntomas físicos por el trauma aunque ya no esté en peligro?** \
-Sí. Dolores crónicos, problemas digestivos, fatiga o tensión muscular pueden ser manifestaciones del trauma almacenado. El cuerpo mantiene la alerta aunque la amenaza haya pasado. La terapia ayuda a procesar y liberar estos síntomas.
-
-**¿Es posible recuperarse completamente?** \
-Sí. Muchas supervivientes no solo superan el trauma, sino que experimentan crecimiento postraumático: mayor fortaleza, límites más claros, relaciones más sanas y conexión profunda consigo mismas. El trauma no tiene que definir tu futuro.
-
-**¿Cuántas sesiones necesitaré?** \
-Depende de la complejidad del trauma y tus circunstancias. Algunas personas mejoran en 6-12 sesiones, situaciones de violencia prolongada pueden requerir más tiempo. Lo evaluaremos juntas y ajustaremos según tu evolución.
-
-**¿Qué puedo esperar de la primera sesión?** \
-Conocernos, que me cuentes tu situación sin presión, evaluar tus necesidades y diseñar un plan de tratamiento personalizado. Es un espacio seguro donde tú marcas el ritmo.
+**¿Qué puedo esperar de la primera sesión?**  
+Conocernos, que me cuentes tu situación sin presión, y diseñar juntas un plan de tratamiento personalizado. Es un espacio seguro donde tú marcas el ritmo.
 
 ## Opiniones de pacientes
 
