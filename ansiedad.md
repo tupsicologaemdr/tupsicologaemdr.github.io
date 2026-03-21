@@ -90,3 +90,7 @@ Trabajar conmigo significa:
 - **Un proceso gradual** que respeta tu ritmo y tus límites
 
 **La tranquilidad no es la ausencia de ansiedad – es la confianza de que puedes navegarla cuando aparezca.**
+
+## Opiniones de pacientes
+
+<div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>
