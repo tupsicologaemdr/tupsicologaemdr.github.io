@@ -140,3 +140,7 @@ Puedes aprender a:
 - **Ayudar a otros** desde tu experiencia transformada
 
 Tu dolor tiene sentido, tu sanación es posible, y tu ser querido vivirá siempre en la forma en que eliges honrar su memoria.
+
+## Opiniones de pacientes
+
+<div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>

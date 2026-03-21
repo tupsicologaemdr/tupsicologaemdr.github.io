@@ -147,3 +147,7 @@ Si necesitas **ayuda profesional para trastornos alimentarios** o quieres más i
 ---
 
 *Como psicóloga especialista en trastornos de la conducta alimentaria, entiendo la complejidad de estos trastornos y estoy aquí para acompañarte en cada paso de tu proceso de recuperación. Tu bienestar es mi prioridad.*
+
+## Opiniones de pacientes
+
+<div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>
