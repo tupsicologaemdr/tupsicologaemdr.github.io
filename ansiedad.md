@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Ansiedad y Estrés
+title: Psicóloga Especialista en Ansiedad en Granada
+subtitle: Terapia EMDR y cognitivo-conductual para superar la ansiedad
+description: Psicóloga especialista en ansiedad en Granada. Carmen María Martín ofrece terapia EMDR y cognitivo-conductual en el Zaidín y online para superar la ansiedad social, el pánico y la ansiedad generalizada.
 permalink: /ansiedad/
 ---
 

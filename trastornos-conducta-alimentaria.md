@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Trastornos de la Conducta Alimentaria (TCA)
+title: Psicóloga Especialista en Trastornos Alimentarios en Granada
+subtitle: Tratamiento de anorexia, bulimia y trastorno por atracón
+description: Psicóloga especialista en trastornos de la conducta alimentaria (TCA) en Granada. Carmen María Martín ofrece tratamiento para anorexia, bulimia y trastorno por atracón en consulta presencial (Zaidín) y online.
 permalink: /trastornos-conducta-alimentaria/
 ---
 

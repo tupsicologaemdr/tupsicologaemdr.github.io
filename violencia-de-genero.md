@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Violencia de Género
+title: Psicóloga Especialista en Violencia de Género en Granada
+subtitle: Terapia EMDR y somática para supervivientes de violencia machista
+description: Psicóloga especialista en violencia de género y trauma en Granada. Carmen María Martín acompaña a mujeres supervivientes de maltrato con terapia EMDR, somática e IFS en el Zaidín y online.
 permalink: /violencia-de-genero/
 ---
 
