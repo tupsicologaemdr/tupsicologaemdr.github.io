@@ -3,7 +3,7 @@ layout: page
 title: Psicóloga Especialista en Duelo en Granada
 subtitle: Acompañamiento terapéutico con EMDR para sanar el dolor emocional
 description: Psicóloga especialista en duelo en Granada. Carmen María Martín aplica terapia EMDR para procesar pérdidas traumáticas y duelos complicados en consulta presencial (Zaidín) y online.
-permalink: /depresion/
+permalink: /duelo/
 ---
 
 ## Historia de Transformación: Cuando EMDR Ayuda a Sanar el Dolor

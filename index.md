@@ -31,13 +31,13 @@ layout: default
         <div class="services-grid">
             <a href="/ansiedad/" class="service-card">
                 <div class="service-icon">🌱</div>
-                <h3>Ansiedad y Estrés</h3>
+                <h3>Ansiedad</h3>
                 <p>La ansiedad no es el enemigo que creemos que es. Es el susurro urgente de una mente que intenta protegerte, pero que ha olvidado cuándo parar de gritar.</p>
             </a>
 
-            <a href="/depresion/" class="service-card">
+            <a href="/duelo/" class="service-card">
                 <div class="service-icon">💭</div>
-                <h3>Duelo y Depresión</h3>
+                <h3>Duelo</h3>
                 <p>El duelo no es algo que superas; es algo que integras. No se trata de olvidar a quien perdiste, sino de aprender a llevarlo contigo mientras vuelves a vivir.</p>
             </a>
 
