@@ -24,6 +24,77 @@
     <!-- Elfsight Platform -->
     <script src="https://static.elfsight.com/platform/platform.js" async></script>
 
+    <!-- Schema.org structured data (Local SEO) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Psychologist",
+      "name": "{{ site.title }}",
+      "description": "{{ site.description | strip_newlines | strip }}",
+      "url": "{{ site.url }}",
+      "logo": "{{ site.url }}/assets/img/carmen-foto.jpg",
+      "image": "{{ site.url }}/assets/img/carmen-foto.jpg",
+      "telephone": "{{ site.phone_e164 }}",
+      "email": "{{ site.email }}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{ site.address_locality }}",
+        "addressRegion": "{{ site.address_region }}",
+        "postalCode": "{{ site.postal_code }}",
+        "addressCountry": "ES",
+        "description": "{{ site.address }}"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{ site.geo_latitude }},
+        "longitude": {{ site.geo_longitude }}
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+          "opens": "{{ site.opening_hours_am_start }}",
+          "closes": "{{ site.opening_hours_am_end }}"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+          "opens": "{{ site.opening_hours_pm_start }}",
+          "closes": "{{ site.opening_hours_pm_end }}"
+        }
+      ],
+      "priceRange": "€€",
+      "currenciesAccepted": "EUR",
+      "paymentAccepted": "Transferencia bancaria, efectivo",
+      "areaServed": [
+        { "@type": "City", "name": "{{ site.address_locality }}" },
+        { "@type": "AdministrativeArea", "name": "{{ site.address_region }}" }
+      ],
+      "knowsAbout": [
+        "EMDR",
+        "Terapia cognitivo-conductual",
+        "Ansiedad",
+        "Duelo",
+        "Depresión",
+        "Trastornos de la conducta alimentaria",
+        "Violencia de género",
+        "Trauma psicológico"
+      ],
+      "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "Colegiada",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Colegio Oficial de Psicología de Andalucía Oriental"
+        },
+        "identifier": "{{ site.colegiada }}"
+      },
+      "sameAs": [
+        "{{ site.url }}"
+      ]
+    }
+    </script>
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17697924088"></script>
     <script>

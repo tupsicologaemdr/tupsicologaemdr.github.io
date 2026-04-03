@@ -10,8 +10,18 @@ url: "https://tupsicologaemdr.es"
 
 # Contact information
 phone: "722 628 237"
-address: "Zaidín, Granada"
+phone_e164: "+34722628237"
+address: "Calle Hermanos Carazo 1, 3-D"
+address_locality: "Granada"
+address_region: "Andalucía"
+postal_code: "18007"
+geo_latitude: 337.156365
+geo_longitude: -3.600649
 colegiada: "AO13008"
+opening_hours_am_start: "10:00"
+opening_hours_am_end: "14:00"
+opening_hours_pm_start: "16:00"
+opening_hours_pm_end: "20:00"
 
 # Build settings
 markdown: kramdown
