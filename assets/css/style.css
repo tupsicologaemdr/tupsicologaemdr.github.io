@@ -357,21 +357,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .services-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 2rem;
     margin-bottom: 2rem;
 }
 
+.services-grid .service-card {
+    flex: 0 1 calc((100% - 4rem) / 3);
+    max-width: 360px;
+}
+
 @media (max-width: 1024px) {
-    .services-grid {
-        grid-template-columns: repeat(2, 1fr);
+    .services-grid .service-card {
+        flex-basis: calc((100% - 2rem) / 2);
+        max-width: none;
     }
 }
 
 @media (max-width: 600px) {
-    .services-grid {
-        grid-template-columns: 1fr;
+    .services-grid .service-card {
+        flex-basis: 100%;
     }
 }
 
@@ -701,9 +708,12 @@ a.service-card {
         display: flex;
     }
 
-    .services-grid,
     .modalities-grid {
         grid-template-columns: 1fr;
+    }
+
+    .services-grid .service-card {
+        flex-basis: 100%;
     }
 
     .about-intro {

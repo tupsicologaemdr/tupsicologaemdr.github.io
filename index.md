@@ -53,6 +53,12 @@ layout: default
                 <p>El día que te das cuenta de que mereces ser tratada con amor y respeto, es el día que comienza tu verdadera libertad.</p>
             </a>
 
+            <a href="/autoestima-adolescentes/" class="service-card">
+                <div class="service-icon">🪞</div>
+                <h3>Autoestima en Adolescentes</h3>
+                <p>Acompaño a niños y adolescentes a construir una autoestima real, desde dentro, no desde los likes ni las notas.</p>
+            </a>
+
         </div>
 
         <div class="text-center">
