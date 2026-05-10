@@ -2,7 +2,7 @@
 layout: page
 title: Psicóloga Especialista en Autoestima para Adolescentes en Granada
 subtitle: Terapia EMDR y cognitivo-conductual para mejorar la autoestima infanto-juvenil
-description: Psicóloga especialista en autoestima para adolescentes en Granada. Carmen María Martín ofrece terapia EMDR y cognitivo-conductual en el Zaidín y online para superar la ansiedad social, el perfeccionismo, el bullying o la imagen corporal. 
+description: Psicóloga especialista en autoestima para adolescentes en Granada. Carmen María Martín ofrece terapia EMDR y cognitivo-conductual en el Zaidín y online para superar la ansiedad social, el perfeccionismo, el bullying o la imagen corporal.
 permalink: /autoestima-adolescentes/
 ---
 
@@ -12,7 +12,7 @@ permalink: /autoestima-adolescentes/
 
 Lucía dejó de querer ir al instituto. Las invitaciones de sus compañeras le provocaban pánico. Las llamadas, peor. Había perfeccionado el arte de poner excusas para no salir, para no estar, para no ser vista. Sus padres sentían que le estaban fallando, aunque lo intentaban todo. Cuando llegó a consulta, Lucía ensayaba cada conversación durante horas y luego se quedaba en silencio justo cuando llegaba el momento. No era timidez. Era una herida. Después de varios meses trabajando juntas, Lucía volvió al instituto. No perfecta, no sin miedo. Pero con herramientas para no dejar que el miedo decidiera por ella.
 
-Como ella, me encuentro lo siguiente en consulta: 
+Como ella, me encuentro lo siguiente en consulta:
 
 > "Muchos adolescentes víctimas de ciberbullying sienten que sus padres están fallando en protegerlos."
 
@@ -26,21 +26,21 @@ Describir así a alguien no les ayuda, les etiqueta. Un adolescente que lee esto
 
 Esto le pasa a muchísimos jóvenes y es completamente comprensible. Pero contarlo sin más puede hacer que quien lo vive piense que siempre será así. No tiene por qué serlo.
 
-> "La ansiedad social interfiere. Te cuesta oportunidades, relaciones y tranquilidad. Toma decisiones por ti." 
+> "La ansiedad social interfiere. Te cuesta oportunidades, relaciones y tranquilidad. Toma decisiones por ti."
 
 La ansiedad es difícil, sí. Pero decirle a un adolescente que "algo toma decisiones por él" le quita poder sobre su propia vida. Ellos siguen siendo los protagonistas, aunque ahora mismo no lo sientan así.
 
 ### Marcos, 16 años. Perfeccionismo académico
 
-Marcos sacaba buenas notas. Muy buenas. Pero un 8 podía hundirle el día entero. Si no era perfecto, era un fracaso. Y en el fondo, aunque nadie lo supiera, sentía que él mismo era el fracaso. Cada crítica, por pequeña que fuera, le dolía de una forma que no sabía explicar. No era exageración. Era que su autoestima dependía completamente de lo que producía, no de lo que era. Aprendió que equivocarse no le definía. Que podía soltar la mochila del perfeccionismo sin soltar su ambición. Hoy estudia lo que quiere sin necesidad de demostrarse nada. 
+Marcos sacaba buenas notas. Muy buenas. Pero un 8 podía hundirle el día entero. Si no era perfecto, era un fracaso. Y en el fondo, aunque nadie lo supiera, sentía que él mismo era el fracaso. Cada crítica, por pequeña que fuera, le dolía de una forma que no sabía explicar. No era exageración. Era que su autoestima dependía completamente de lo que producía, no de lo que era. Aprendió que equivocarse no le definía. Que podía soltar la mochila del perfeccionismo sin soltar su ambición. Hoy estudia lo que quiere sin necesidad de demostrarse nada.
 
-Como él, me encuentro lo siguiente en consulta: 
+Como él, me encuentro lo siguiente en consulta:
 
 > "Si no es perfecto, es un fracaso total. La gente no sabe el fracaso que en realidad soy."
 
 Publicar este pensamiento sin cuestionarlo puede hacer que quien lo lee sienta que tiene razón sobre sí mismo. El pensamiento de "todo o nada" es muy común en adolescentes, y trabajarlo cambia vidas.
 
-> "Los adolescentes perfeccionistas sienten un dolor más profundo ante el fracaso o la crítica, incluso ante algo pequeño." 
+> "Los adolescentes perfeccionistas sienten un dolor más profundo ante el fracaso o la crítica, incluso ante algo pequeño."
 
 Esto es real, pero decírselo así puede hacer que un joven piense que su dolor es parte de cómo es y que no puede cambiar. Lo importante es que sí puede aprender a relacionarse de otra forma con el error.
 
@@ -48,7 +48,7 @@ Esto es real, pero decírselo así puede hacer que un joven piense que su dolor 
 
 Cada mañana, antes de salir de casa, Elena pasaba frente al espejo y pensaba lo mismo: fea, gorda, insuficiente. Se odiaba en silencio, cada día, sin que nadie lo supiera del todo. No era un problema de peso. Era un problema de cómo Elena se veía, se hablaba y se trataba a sí misma. Trabajamos juntas para cambiar esa voz interior. No para convencerla de que era guapa, sino para que dejara de necesitar ese veredicto del espejo. Hoy Elena se cuida porque se respeta, no porque se castiga.
 
-Algunas niñas sienten algo parecido como: 
+Algunas niñas sienten algo parecido como:
 
 > "Cada vez que me miro al espejo veo a una chica fea y con sobrepeso. Me odio a mí misma cada día por eso."
 
@@ -58,19 +58,19 @@ Compartir este mensaje sin ningún acompañamiento puede hacer que quien se iden
 
 El cambio real no viene de decirle a un adolescente que se quiera más. Viene de entender qué hay detrás, y trabajarlo de raíz.
 
-**Terapia Cognitivo-Conductual (TCC)**  
+**Terapia Cognitivo-Conductual (TCC)**
 Identificamos los pensamientos automáticos que están destruyendo la autoestima de tu hijo/a, esos que dicen "soy un fracaso", "no gusto a nadie", "nunca lo haré bien", y los cuestionamos juntos. La TCC trabaja la conexión entre lo que pensamos, lo que sentimos y lo que hacemos. Cuando cambiamos el pensamiento, cambia todo lo demás.
 
-**EMDR**  
+**EMDR**
 Algunos adolescentes cargan con experiencias difíciles que siguen activas, aunque hayan pasado hace tiempo. El EMDR es una terapia avalada científicamente que ayuda al cerebro a procesar esas experiencias para que dejen de doler de la misma manera. No hace falta revivir el pasado en detalle para sanar.
 
-**Terapia Somática**  
+**Terapia Somática**
 La baja autoestima no solo vive en la cabeza. Vive en el cuerpo: en la tensión, en la postura, en cómo un adolescente ocupa el espacio. La terapia somática trabaja con esas señales corporales para liberar lo que las palabras a veces no pueden alcanzar.
 
 ## ¿Qué cambia cuando un/a adolescente trabaja su autoestima?
 
 * Aprende a relacionarse consigo mismo sin crueldad
-* Mejora su capacidad para enfrentarse a situaciones sociales y académicas 
+* Mejora su capacidad para enfrentarse a situaciones sociales y académicas
 * Deja de necesitar la aprobación constante de los demás
 * Gestiona mejor la frustración, el error y la crítica
 * Se comunica con más seguridad, en casa y fuera de ella
@@ -89,25 +89,25 @@ Si estás asintiendo mientras lees, estás en el lugar correcto.
 
 ## Preguntas frecuentes
 
-**¿A partir de qué edad se puede trabajar la autoestima en terapia?**  
+**¿A partir de qué edad se puede trabajar la autoestima en terapia?**
 Trabajo con niños a partir de los 8 años en adelante. Cada etapa tiene su propio lenguaje y su propio ritmo, y adapto el enfoque a cada uno.
 
-**¿Cuánto tiempo dura el proceso?**  
+**¿Cuánto tiempo dura el proceso?**
 Depende de cada caso. Algunos procesos se resuelven en pocos meses, otros requieren más tiempo. Lo que sí puedo decirte es que desde las primeras sesiones suele haber cambios visibles.
 
-**¿Tienen que venir los padres también?**  
+**¿Tienen que venir los padres también?**
 En muchos casos, sí. No para ser evaluados ni culpados, sino porque el entorno familiar forma parte del proceso. Trabajo con familias desde un lugar de colaboración, no de juicio.
 
-**¿Qué pasa si mi hijo no quiere venir?**  
+**¿Qué pasa si mi hijo no quiere venir?**
 Es más habitual de lo que parece. Podemos empezar con
 una sesión de orientación para ti como padre o madre, y trabajar juntos cómo acercarle a la idea sin
 presión.
 
-**¿Haces sesiones online?**  
+**¿Haces sesiones online?**
 Sí. Las sesiones online funcionan igual de bien, especialmente para
 adolescentes que ya manejan con naturalidad el entorno digital.
 
-**¿Cómo sé si mi hijo necesita terapia o es simplemente "cosa de la edad"?**  
+**¿Cómo sé si mi hijo necesita terapia o es simplemente "cosa de la edad"?**
 Que algo sea
 frecuente en la adolescencia no significa que haya que aguantarlo. Si el malestar interfiere en su
 vida diaria, en sus relaciones o en su rendimiento, merece atención. Confía en lo que ves.
@@ -120,5 +120,30 @@ Si has llegado hasta aquí, ya sabes que algo tiene que cambiar.
 puesta en tu hijo.
 
 ## Opiniones de pacientes
+
+<div class="testimonials-grid" aria-label="Testimonios destacados de pacientes">
+	<div class="testimonial-card">
+		<span class="testimonial-quote">“</span>
+		<p>Carmen una psicóloga increíble, gracias a ella estoy como nunca conmigo misma, un trato muy especial y me he sentido muy cómoda además de dar confianza para poder abrirse, si necesitara atención psicológica sin duda volvería a acudir a ella por todo lo que me ha ayudado.</p>
+	</div>
+
+	<div class="testimonial-card">
+		<span class="testimonial-quote">“</span>
+		<p>Quiero compartir mi experiencia que he tenido con Mari Carmen.
+		Mi niña había sufrido bullying desde los 5 años y eso le había afectado mucho en el comportamiento y hasta tenía ansiedad por comer con solo 7 años. Cuando no sabíamos qué hacer, mi marido y yo tomamos la decisión de pedir ayuda y encontramos a Mari Carmen que es muy profesional.
+		Mi niña se ha tranquilizado y le ha ayudado mucho haber tomado terapias.
+Os la recomiendo.</p>
+	</div>
+
+	<div class="testimonial-card">
+		<span class="testimonial-quote">“</span>
+		<p>A mi hija la veo genial, cada día mejor, ha identificado muchas cosas que le pasaban y no sabía ponerles nombre... y cada día me habla más y me cuenta lo que siente y demás, algo que antes no hacía tanto, por lo demás muy bien, asimila las cosas mejor, más madura y desde otra perspectiva que antes no tenía, así que buen trabajo, muchas gracias.</p>
+	</div>
+
+	<div class="testimonial-card">
+		<span class="testimonial-quote">“</span>
+		<p>Gracias por la labor que has hecho en ayudar a mi hija, de verdad parece otra se siente ya como ella era. De verdad un millón de gracias.</p>
+	</div>
+</div>
 
 <div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>

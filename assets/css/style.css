@@ -85,9 +85,62 @@ p.about-highlight {
     text-align: center;
 }
 
-/* Personalización del widget de Elfsight (si es necesario) */
-.elfsight-app-c89e91a3-7a21-4ecd-a0b4-9ffe8f0e08ad {
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
     margin-top: 2rem;
+    text-align: left;
+}
+
+.testimonial-card {
+    background: var(--white);
+    padding: 2rem 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px var(--shadow-light);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-height: 140px;
+}
+
+.testimonial-quote {
+    font-size: 2.5rem;
+    color: var(--secondary-pink);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+    font-family: 'Merriweather', serif;
+}
+
+.testimonial-card p {
+    font-size: 1.1rem;
+    color: var(--text-light);
+    margin: 0;
+    font-style: italic;
+}
+
+.testimonials-widget {
+    margin-top: 3rem;
+}
+
+.testimonials-widget-label {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    color: var(--secondary-brown);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.95rem;
+}
+
+/* Personalización del widget de Elfsight (si es necesario) */
+.elfsight-app-59108b42-c470-4629-b1db-6a7179480ede {
+    margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+    .testimonials-grid {
+        grid-template-columns: 1fr;
+    }
 }
 /* Bloque logo y WhatsApp en el header */
 .logo-whatsapp-block {

@@ -102,28 +102,52 @@ Puedo ayudarte a procesar el trauma de forma segura, recuperar tu autoestima, re
 
 ## Preguntas Frecuentes sobre Violencia de Género y Terapia
 
-**¿Cómo sé si necesito terapia especializada en violencia de género?**  
+**¿Cómo sé si necesito terapia especializada en violencia de género?**
 Si experimentas ansiedad constante, flashbacks, dificultad para confiar, hipervigilancia, problemas de sueño o sensación de estar "bloqueada", la terapia puede ayudarte. No necesitas estar en crisis para buscar apoyo.
 
-**¿Tendré que contar todos los detalles de lo que viví?**  
+**¿Tendré que contar todos los detalles de lo que viví?**
 No necesariamente. Con EMDR podemos trabajar el trauma sin revivir cada situación en detalle. Tú decides qué compartes y cuándo estás preparada.
 
-**¿Puedo hacer terapia si aún estoy en la relación?**  
+**¿Puedo hacer terapia si aún estoy en la relación?**
 Sí. Podemos trabajar en estabilización, fortalecimiento y planificación de seguridad hasta que puedas dar ese paso. Tu seguridad siempre es la prioridad.
 
-**¿Cuánto tiempo dura el tratamiento?**  
+**¿Cuánto tiempo dura el tratamiento?**
 Cada proceso es único. La mayoría experimenta cambios significativos en 3–6 meses, aunque puede variar. Lo importante es trabajar a tu ritmo, sin presiones.
 
-**¿Es normal tener sentimientos contradictorios hacia mi agresor?**  
+**¿Es normal tener sentimientos contradictorios hacia mi agresor?**
 Completamente normal. Puedes sentir miedo y querer volver al mismo tiempo, rabia y culpa a la vez. Con IFS trabajamos estas partes sin juzgarlas, ayudándote a encontrar claridad desde tu propia sabiduría.
 
-**¿Es posible recuperarse completamente?**  
+**¿Es posible recuperarse completamente?**
 Sí. Muchas supervivientes no solo superan el trauma, sino que experimentan crecimiento postraumático: mayor fortaleza, límites más claros y relaciones más sanas. El trauma no tiene que definir tu futuro.
 
-**¿Qué puedo esperar de la primera sesión?**  
+**¿Qué puedo esperar de la primera sesión?**
 Conocernos, que me cuentes tu situación sin presión, y diseñar juntas un plan de tratamiento personalizado. Es un espacio seguro donde tú marcas el ritmo.
 
 ## Opiniones de pacientes
+
+<div class="testimonials-grid" aria-label="Testimonios destacados de pacientes">
+    <div class="testimonial-card">
+        <span class="testimonial-quote">“</span>
+        <p>Carmen como psicóloga ha sido un descubrimiento para mí. Además de una gran profesional es una gran persona y te hace sentir en un entorno seguro, para las mujeres víctimas de maltrato y abuso ésto es muy importante, ya que no es fácil hablar de ello. Después de probar con varios profesionales y no sentirme bien, con ella he recuperado la confianza. Me siento muy agradecida.</p>
+    </div>
+
+    <div class="testimonial-card">
+        <span class="testimonial-quote">“</span>
+        <p>Gran profesional, me ha ayudado a superar todos mis problemas. Muchas gracias Carmen por todo.</p>
+    </div>
+
+    <div class="testimonial-card">
+        <span class="testimonial-quote">“</span>
+        <p style="font-size: 0.8rem">Llegar a terapia después de vivir violencia de género fue uno de los pasos más difíciles que he dado, pero también el más importante. Desde la primera sesión me sentí escuchada y comprendida, sin juicios. Carmen es cercana y empática.
+        Se nota que prepara cada sesión pensando en mí y en lo que necesito en cada momento. No improvisa, tiene muy clara la dirección del trabajo y eso me ha dado mucha seguridad. El EMDR ha sido transformador para mí. Al principio tenía mis dudas, pero me lo explicó todo con paciencia y me ha ayudado a procesar los recuerdos más dolorosos de una forma que nunca imaginé posible.
+        Me ha ayudado a recuperar mi autoestima y a volver a confiar. Estoy muy agradecida por su trabajo.</p>
+    </div>
+
+    <div class="testimonial-card">
+        <span class="testimonial-quote">“</span>
+        <p>Mi experencia con Carmen fue mágica, me ayudó en el momento más difícil de mi vida y gracias a ella salí de ese pozo, es buenisima.</p>
+    </div>
+</div>
 
 <div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>
 
