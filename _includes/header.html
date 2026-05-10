@@ -16,6 +16,21 @@
             <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
                 <ul class="nav-list">
                     <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+                    <li class="nav-dropdown">
+                        <button class="nav-dropdown-toggle"
+                                type="button"
+                                aria-expanded="false"
+                                aria-controls="services-submenu">
+                            Servicios
+                        </button>
+                        <ul class="nav-submenu" id="services-submenu">
+                            <li><a href="{{ '/ansiedad/' | relative_url }}">Ansiedad</a></li>
+                            <li><a href="{{ '/duelo/' | relative_url }}">Duelo</a></li>
+                            <li><a href="{{ '/trastornos-conducta-alimentaria/' | relative_url }}">Trastornos de la Conducta Alimentaria</a></li>
+                            <li><a href="{{ '/violencia-de-genero/' | relative_url }}">Violencia de Género</a></li>
+                            <li><a href="{{ '/autoestima-adolescentes/' | relative_url }}">Autoestima en Adolescentes</a></li>
+                        </ul>
+                    </li>
                     <li><a href="{{ '/sobre-mi' | relative_url }}">Sobre mí</a></li>
                     <li><a href="{{ '/tarifas' | relative_url }}">Tarifas</a></li>
                     <li><a href="{{ '/emdr' | relative_url }}">EMDR</a></li>
