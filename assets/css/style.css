@@ -1125,3 +1125,154 @@ a.service-card {
         height: 350px;
     }
 }
+
+/* ============================================
+   Consent Banner Styles
+   ============================================ */
+
+.consent-banner {
+    position: fixed;
+    bottom: -100%;
+    left: 0;
+    right: 0;
+    background: var(--white);
+    border-top: 3px solid var(--secondary-pink);
+    box-shadow: 0 -5px 25px var(--shadow-medium);
+    z-index: 9999;
+    transition: bottom 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    font-family: 'Lato', sans-serif;
+}
+
+.consent-banner.visible {
+    bottom: 0;
+}
+
+.consent-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.consent-content {
+    flex: 1;
+}
+
+.consent-title {
+    font-family: 'Merriweather', serif;
+    font-size: 1.3rem;
+    color: var(--primary-brown);
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+}
+
+.consent-description {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin-bottom: 0.8rem;
+    line-height: 1.5;
+}
+
+.consent-detail {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin-bottom: 0;
+    line-height: 1.4;
+}
+
+.consent-link {
+    color: var(--primary-brown);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.consent-link:hover {
+    color: var(--secondary-brown);
+    text-decoration: underline;
+}
+
+.consent-actions {
+    display: flex;
+    gap: 1rem;
+    flex-shrink: 0;
+    justify-content: flex-end;
+}
+
+.consent-btn {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+}
+
+.consent-btn-reject {
+    background: var(--primary-pink);
+    color: var(--primary-brown);
+    border: 2px solid var(--secondary-pink);
+}
+
+.consent-btn-reject:hover {
+    background: var(--secondary-pink);
+    color: var(--white);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--shadow-light);
+}
+
+.consent-btn-accept {
+    background: var(--primary-brown);
+    color: var(--white);
+}
+
+.consent-btn-accept:hover {
+    background: var(--secondary-brown);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--shadow-light);
+}
+
+.consent-btn:active {
+    transform: translateY(0);
+}
+
+/* Responsive consent banner */
+@media (max-width: 768px) {
+    .consent-container {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.5rem;
+    }
+
+    .consent-title {
+        font-size: 1.1rem;
+    }
+
+    .consent-description {
+        font-size: 0.9rem;
+    }
+
+    .consent-detail {
+        font-size: 0.8rem;
+    }
+
+    .consent-actions {
+        width: 100%;
+        justify-content: stretch;
+        gap: 0.8rem;
+    }
+
+    .consent-btn {
+        flex: 1;
+        padding: 0.65rem 1rem;
+        font-size: 0.85rem;
+    }
+}

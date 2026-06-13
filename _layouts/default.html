@@ -95,17 +95,23 @@
     }
     </script>
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17697924088"></script>
+    <!-- Google tag (gtag.js) - Loaded conditionally based on consent -->
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
 
-        gtag('config', 'AW-17697924088');
+        // Default consent to denied
+        gtag('consent', 'default', {
+            'analytics_storage': 'denied'
+        });
+
+        gtag('js', new Date());
     </script>
 </head>
 <body>
+    <!-- Consent Banner -->
+    {% include consent-banner.html %}
+
     {% include header.html %}
 
     <main class="main-content">
@@ -114,6 +120,31 @@
 
     {% include footer.html %}
 
+    <!-- Load gtag.js asynchronously after consent -->
+    <script>
+        (function() {
+            function loadGtag() {
+                var script = document.createElement('script');
+                script.async = true;
+                script.src = 'https://www.googletagmanager.com/gtag/js?id=AW-17697924088';
+                document.head.appendChild(script);
+
+                // Configure after loading
+                window.gtag('config', 'AW-17697924088');
+            }
+
+            // Check if user already gave consent
+            var consentChoice = localStorage.getItem('tupsicologia-consent');
+            if (consentChoice === 'accepted') {
+                loadGtag();
+            }
+
+            // Listen for consent acceptance
+            document.addEventListener('consentAccepted', loadGtag);
+        })();
+    </script>
+
+    <script src="{{ '/assets/js/consent.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
