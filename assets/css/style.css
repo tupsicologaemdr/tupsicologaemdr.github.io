@@ -613,6 +613,25 @@ a.service-card {
     font-weight: bold;
 }
 
+/* Checklist with ✓ markers instead of bullets */
+ul.check-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.check-list li {
+    padding-left: 1.75rem;
+    position: relative;
+}
+
+ul.check-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--secondary-pink);
+    font-weight: bold;
+}
+
 /* CTA section */
 .cta {
     background: linear-gradient(135deg, var(--primary-brown) 0%, var(--secondary-brown) 100%);
