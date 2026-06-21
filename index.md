@@ -35,6 +35,24 @@ layout: default
                 <p>La ansiedad no es el enemigo que creemos que es. Es el susurro urgente de una mente que intenta protegerte, pero que ha olvidado cuándo parar de gritar.</p>
             </a>
 
+            <a href="/autoestima-adolescentes/" class="service-card">
+                <div class="service-icon">🪞</div>
+                <h3>Autoestima en Adolescentes</h3>
+                <p>Acompaño a niños y adolescentes a construir una autoestima real, desde dentro, no desde los likes ni las notas.</p>
+            </a>
+
+            <a href="/trauma-complejo/" class="service-card">
+                <div class="service-icon">❤️‍🩹</div>
+                <h3>Trauma complejo</h3>
+                <p>Siempre disponible para todos. Agotada por dentro. Hay otra forma.</p>
+            </a>
+
+            <a href="/violencia-de-genero/" class="service-card">
+                <div class="service-icon">♀️</div>
+                <h3>Violencia de Género</h3>
+                <p>El día que te das cuenta de que mereces ser tratada con amor y respeto, es el día que comienza tu verdadera libertad.</p>
+            </a>
+
             <a href="/duelo/" class="service-card">
                 <div class="service-icon">💭</div>
                 <h3>Duelo</h3>
@@ -47,17 +65,9 @@ layout: default
                 <p>Cuando el TCA habla tan fuerte que ya no escuchas tu propia voz, la recuperación comienza susurrando: <i>«tú eres más que este trastorno».</i></p>
             </a>
 
-            <a href="/violencia-de-genero/" class="service-card">
-                <div class="service-icon">♀️</div>
-                <h3>Violencia de Género</h3>
-                <p>El día que te das cuenta de que mereces ser tratada con amor y respeto, es el día que comienza tu verdadera libertad.</p>
-            </a>
 
-            <a href="/autoestima-adolescentes/" class="service-card">
-                <div class="service-icon">🪞</div>
-                <h3>Autoestima en Adolescentes</h3>
-                <p>Acompaño a niños y adolescentes a construir una autoestima real, desde dentro, no desde los likes ni las notas.</p>
-            </a>
+
+
 
         </div>
 
