@@ -29,6 +29,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Psychologist",
+      "@id": "{{ site.url }}/#psychologist",
       "name": "{{ site.title }}",
       "description": "{{ site.description | strip_newlines | strip }}",
       "url": "{{ site.url }}",
@@ -38,11 +39,11 @@
       "email": "{{ site.email }}",
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "{{ site.address }}",
         "addressLocality": "{{ site.address_locality }}",
         "addressRegion": "{{ site.address_region }}",
         "postalCode": "{{ site.postal_code }}",
-        "addressCountry": "ES",
-        "description": "{{ site.address }}"
+        "addressCountry": "ES"
       },
       "geo": {
         "@type": "GeoCoordinates",
@@ -90,7 +91,9 @@
         "identifier": "{{ site.colegiada }}"
       },
       "sameAs": [
-        "{{ site.url }}"
+        "{{ site.instagram_url }}",
+        "{{ site.facebook_url }}",
+        "{{ site.youtube_url }}"
       ]
     }
     </script>
