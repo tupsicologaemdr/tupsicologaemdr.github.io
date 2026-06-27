@@ -25,4 +25,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+  <loc>https://tupsicologaemdr.es/ansiedad/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+  <loc>https://tupsicologaemdr.es/autoestima-adolescentes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+  <loc>https://tupsicologaemdr.es/trauma-complejo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+  <loc>https://tupsicologaemdr.es/violencia-de-genero/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+  <loc>https://tupsicologaemdr.es/duelo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+  <loc>https://tupsicologaemdr.es/trastornos-conducta-alimentaria/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
