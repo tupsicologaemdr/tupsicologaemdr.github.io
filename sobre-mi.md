@@ -12,6 +12,21 @@ subtitle: Conoce mi trayectoria y enfoque terapéutico
             <h2>Carmen María Martín Fuentes</h2>
             <p class="credentials">Psicóloga General Sanitaria - Colegiada {{ site.colegiada }}</p>
 
+            <div class="verification-summary">
+                <h3>Datos profesionales verificables</h3>
+                <ul>
+                    <li><strong>Nombre completo:</strong> Carmen María Martín Fuentes</li>
+                    <li><strong>Número de colegiada:</strong> {{ site.colegiada }}</li>
+                    <li><strong>Colegio profesional:</strong> Colegio Oficial de Psicología de Andalucía Oriental</li>
+                    <li><strong>Grado universitario:</strong> Grado en Psicología por la Universidad de Granada</li>
+                    <li><strong>Formación de posgrado:</strong> Máster en Psicología General Sanitaria por la Universidad de Granada</li>
+                    <li><strong>Formación de posgrado:</strong> Máster del Profesorado en Orientación Educativa por la Universidad de Granada</li>
+                    <li><strong>Especialización:</strong> Doble Experto en Trauma y EMDR por la Sociedad Española de Medicina Psicosomática y Psicoterapia</li>
+                    <li><strong>Asociaciones:</strong> Colegiada en el Colegio Oficial de Psicología de Andalucía Oriental</li>
+                    <li><strong>Perfil profesional:</strong> <a href="https://www.mundopsicologos.com/centros/carmen-maria-martin-fuentes" rel="noopener noreferrer">MundoPsicologos</a></li>
+                </ul>
+            </div>
+
             <p class="about-highlight">
                 Psicóloga General Sanitaria especializada en ayudarte a ser la mejor versión de ti mismo
             </p>
@@ -54,17 +69,17 @@ subtitle: Conoce mi trayectoria y enfoque terapéutico
         <div class="qualification-list">
             <div class="qualification-item">
                 <h3>🎓 Máster en Psicología General Sanitaria</h3>
-                <p>La base sólida</p>
+                <p>Universidad de Granada</p>
             </div>
 
             <div class="qualification-item">
-                <h3>📚 Máster de Profesorado con especialidad en Orientación Educativa</h3>
-                <p>Para entender todos los contextos</p>
+                <h3>📚 Máster del Profesorado con especialidad en Orientación Educativa</h3>
+                <p>Universidad de Granada</p>
             </div>
 
             <div class="qualification-item">
                 <h3>👁️ Doble Experto en Clínica e Intervención en Trauma y EMDR</h3>
-                <p>Herramientas especializadas para cuando más las necesitas</p>
+                <p>Sociedad Española de Medicina Psicosomática y Psicoterapia</p>
             </div>
         </div>
         <p>
