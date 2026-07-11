@@ -10,7 +10,7 @@ subtitle: Conoce mi trayectoria y enfoque terapéutico
 
         <div class="about-text">
             <h2>Carmen María Martín Fuentes</h2>
-            <p class="credentials">Psicóloga General Sanitaria - Colegiada {{ site.colegiada }}</p>
+            <p class="credentials">Psicóloga General Sanitaria - Colegiada {{ site.colegiada }} - NICA {{ site.nica }}</p>
 
             <div class="verification-summary">
                 <h3>Datos profesionales verificables</h3>
@@ -18,6 +18,7 @@ subtitle: Conoce mi trayectoria y enfoque terapéutico
                     <li><strong>Nombre completo:</strong> Carmen María Martín Fuentes</li>
                     <li><strong>Número de colegiada:</strong> {{ site.colegiada }}</li>
                     <li><strong>Colegio profesional:</strong> Colegio Oficial de Psicología de Andalucía Oriental</li>
+                    <li><strong>Registro Sanitario (NICA):</strong> {{ site.nica }}</li>
                     <li><strong>Grado universitario:</strong> Grado en Psicología por la Universidad de Granada</li>
                     <li><strong>Formación de posgrado:</strong> Máster en Psicología General Sanitaria por la Universidad de Granada</li>
                     <li><strong>Formación de posgrado:</strong> Máster del Profesorado en Orientación Educativa por la Universidad de Granada</li>
