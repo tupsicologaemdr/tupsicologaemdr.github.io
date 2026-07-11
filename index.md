@@ -205,6 +205,69 @@ layout: default
             </div>
         </div>
     </div>
+
+<section class="faq-section">
+    <div class="faq-container">
+        <h2 class="section-title text-center">Preguntas Frecuentes</h2>
+        
+        <div class="faq-accordion">
+            <details>
+                <summary>¿Cuál es la duración de las sesiones?</summary>
+                <div class="faq-answer">
+                    <p>Cada sesión tiene una duración aproximada de <strong>una hora</strong>. Es un tiempo dedicado exclusivamente a ti, en el que trabajaremos de manera cercana, profesional y a tu propio ritmo.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Con qué frecuencia se realizan las sesiones?</summary>
+                <div class="faq-answer">
+                    <p>Depende de tu caso. Lo ideal y más efectivo al inicio es realizar <strong>una sesión semanal</strong>. A medida que alcances tus objetivos y te sientas con más herramientas, las sesiones se irán espaciando progresiva y consensuadamente.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Cuántas sesiones voy a necesitar?</summary>
+                <div class="faq-answer">
+                    <p>Cada proceso es único. Habitualmente, el tiempo medio suele estar entre <strong>dos y tres meses</strong>. Sin embargo, la gran mayoría de personas empiezan a notar resultados y una mejoría significativa en <strong>menos de un mes</strong>.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Cuánto cuestan las sesiones?</summary>
+                <div class="faq-answer">
+                    <p>Puedes consultar el coste detallado de la terapia en nuestra sección de <a href="/tarifas">tarifas</a>. Creemos en un proceso transparente y sin sorpresas.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Qué es el EMDR?</summary>
+                <div class="faq-answer">
+                    <p>El EMDR es un método terapéutico avalado científicamente que ayuda a procesar experiencias difíciles, bloqueos o traumas emocionales. Puedes leer en detalle cómo funciona y cómo te puede ayudar en nuestra página sobre <a href="/emdr">terapia EMDR</a>.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Trabajas con más terapias?</summary>
+                <div class="faq-answer">
+                    <p>Sí. Aunque el EMDR es una herramienta fundamental en mi consulta, utilizo un enfoque <strong>integrador</strong> adaptado a tu caso particular. Esto me permite combinar técnicas de la terapia cognitivo-conductual, IFS (Sistemas de la Familia Interna), terapia somática, entre otras, según lo que tú necesites.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Cómo es la primera sesión de terapia?</summary>
+                <div class="faq-answer">
+                    <p>Es un espacio seguro, cercano y libre de juicios para conocernos. Me contarás qué te preocupa, resolveremos tus dudas y trazaremos juntas una hoja de ruta personalizada para que decidas con total libertad.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>¿Es igual de efectiva la terapia online que la presencial?</summary>
+                <div class="faq-answer">
+                    <p>Sí, la evidencia científica demuestra que la terapia online ofrece la misma eficacia que la presencial. Es idónea si buscas comodidad, vives fuera de Granada o tienes dificultades para desplazarte. Solo necesitas un lugar tranquilo donde te sientas cómodo/a para hablar.</p>
+                </div>
+            </details>
+        </div>
+    </div>
 </section>
 
 <section class="cta">

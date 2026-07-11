@@ -1320,3 +1320,79 @@ ul.check-list li::before {
         font-size: 0.85rem;
     }
 }
+
+/* FAQ Accordion Section */
+.faq-section {
+    padding: 5rem 0;
+    background-color: var(--light-cream);
+}
+
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+.faq-accordion {
+    margin-top: 2.5rem;
+}
+
+.faq-accordion details {
+    background-color: var(--cream);
+    border-radius: 12px;
+    margin-bottom: 1.2rem;
+    padding: 0;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 1px solid rgba(139, 111, 71, 0.08);
+}
+
+.faq-accordion details[open] {
+    box-shadow: 0 4px 15px var(--shadow-medium);
+}
+
+.faq-accordion summary {
+    padding: 1.25rem 1.5rem;
+    font-family: 'Merriweather', serif;
+    font-size: 1.15rem;
+    font-weight: bold;
+    color: var(--primary-brown);
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    outline: none;
+    user-select: none;
+}
+
+.faq-accordion summary::-webkit-details-marker {
+    display: none;
+}
+
+.faq-accordion summary::after {
+    content: '+';
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: var(--primary-brown);
+    transition: transform 0.3s ease;
+}
+
+.faq-accordion details[open] summary::after {
+    content: '−';
+}
+
+.faq-accordion .faq-answer {
+    padding: 0 1.5rem 1.5rem 1.5rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.05rem;
+    color: var(--text-dark);
+    line-height: 1.7;
+}
+
+.faq-accordion .faq-answer p {
+    margin-bottom: 0;
+    color: var(--text-dark);
+}
+
