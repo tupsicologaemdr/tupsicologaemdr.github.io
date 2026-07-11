@@ -46,16 +46,18 @@ El pasado seguía siendo el pasado. Pero había dejado de mandar.
 
 ## Cómo trabajamos juntas
 
-Un proceso estructurado, a tu ritmo, sin revivir nada antes de estar preparada.
+Para abordar el trauma complejo, no basta con hablar. Trabajamos integrando tres enfoques complementarios y validados científicamente: la **terapia EMDR**, la **terapia somática** y el enfoque **IFS (Sistemas de Familia Interna)**. 
 
-**1. Entender qué está pasando y por qué**  
-Antes de procesar nada, construimos el mapa. Qué patrones hay, de dónde vienen, cómo se manifiestan hoy. Sin juicio. Sin diagnósticos que no te encajan. Solo claridad sobre lo que realmente está ocurriendo.
+El proceso es estructurado, a tu ritmo y sin revivir nada antes de estar preparada:
 
-**2. Estabilizar el sistema nervioso**  
-EMDR no empieza por el trauma. Empieza por darte recursos internos suficientes para poder acercarte a él sin desbordarte. Esta fase marca la diferencia entre un proceso que te sostiene y uno que te desestabiliza.
+**1. Entender qué está pasando y por qué (el mapa e IFS)**  
+Antes de procesar nada, construimos el mapa. Utilizamos el enfoque IFS para identificar las diferentes partes de ti que aprendieron a protegerte (como la autoexigencia o la complacencia) y entender qué función cumplen hoy. Sin juicio.
 
-**3. Reprocesar lo que sigue activo**  
-Aquí es donde EMDR hace lo que las palabras no llegan a hacer. No revivir, no relatar en detalle. Reprocesar la memoria para que deje de gobernar tu presente. El pasado sigue siendo el pasado —pero ya no manda.
+**2. Estabilizar el sistema nervioso (Terapia Somática)**  
+El trauma se queda registrado en el cuerpo. Por eso, antes de reprocesar, utilizamos la terapia somática para darte recursos corporales que calmen tu sistema nervioso y te permitan acercarte a lo difícil sin desbordarte.
+
+**3. Reprocesar lo que sigue activo (EMDR)**  
+Aquí es donde el EMDR hace lo que las palabras no llegan a hacer. Sin necesidad de revivir o relatar todo al detalle, ayudamos a tu cerebro a reprocesar las memorias almacenadas para que dejen de gobernar tu presente. El pasado sigue siendo el pasado —pero ya no manda.
 
 ## Lo que puede cambiar
 
