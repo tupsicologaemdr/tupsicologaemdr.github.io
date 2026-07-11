@@ -7,13 +7,14 @@ title: Aviso Legal
 
 En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, se exponen a continuación los datos identificativos del titular de este sitio web:
 
-**Titular:** Carmen María Martín Fuentes
-**NIF:** 77447686Q
-**Colegio Profesional:** Colegio Oficial de Psicología de Andalucía Oriental
-**Número de colegiada:** AO13008
-**Domicilio profesional:** Zaidín, Granada
-**Correo electrónico:** {{ site.email }}
-**Teléfono:** {{ site.phone }}
+**Titular:** Carmen María Martín Fuentes  
+**NIF:** 77447686Q  
+**Colegio Profesional:** Colegio Oficial de Psicología de Andalucía Oriental  
+**Número de colegiada:** {{ site.colegiada }}  
+**Registro Sanitario (NICA):** {{ site.nica }}  
+**Domicilio profesional:** Zaidín, Granada  
+**Correo electrónico:** {{ site.email }}  
+**Teléfono:** {{ site.phone }}  
 
 ## Condiciones de Uso
 
