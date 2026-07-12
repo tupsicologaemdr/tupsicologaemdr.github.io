@@ -9,6 +9,7 @@ layout: default
                 <h1>Psicóloga EMDR en Granada (Zaidín)</h1>
                 <h2>Carmen María Martín Fuentes</h2>
                 <h3>Terapia EMDR, Ansiedad, Depresión y Bienestar Emocional</h3>
+                <span class="hero-badge">Colegiada AO13008 | Centro Sanitario NICA 69456</span>
                 <p class="hero-description">
                     Especialista en EMDR y Orientación.
                     Te acompaño en tu proceso de bienestar emocional con terapia presencial en Granada (Zaidín) y online.
@@ -26,48 +27,44 @@ layout: default
 
 <section class="services-preview">
     <div class="container">
-        <h2 class="section-title">Servicios de Psicología en Granada (Zaidín)</h2>
+        <h2 class="section-title">Servicios de Terapia en Granada y Online</h2>
 
         <div class="services-grid">
             <a href="/ansiedad/" class="service-card">
-                <div class="service-icon">🌱</div>
+                <img src="/assets/img/icons/ansiedad.svg" class="service-svg-icon" alt="">
                 <h3>Ansiedad</h3>
                 <p>La ansiedad no es el enemigo que creemos que es. Es el susurro urgente de una mente que intenta protegerte, pero que ha olvidado cuándo parar de gritar.</p>
             </a>
 
             <a href="/autoestima-adolescentes/" class="service-card">
-                <div class="service-icon">🪞</div>
+                <img src="/assets/img/icons/autoestima.svg" class="service-svg-icon" alt="">
                 <h3>Autoestima en Adolescentes</h3>
                 <p>Acompaño a niños y adolescentes a construir una autoestima real, desde dentro, no desde los likes ni las notas.</p>
             </a>
 
             <a href="/trauma-complejo/" class="service-card">
-                <div class="service-icon">❤️‍🩹</div>
+                <img src="/assets/img/icons/trauma-complejo.svg" class="service-svg-icon" alt="">
                 <h3>Trauma complejo</h3>
                 <p>Siempre disponible para todos. Agotada por dentro. Hay otra forma.</p>
             </a>
 
             <a href="/violencia-de-genero/" class="service-card">
-                <div class="service-icon">♀️</div>
+                <img src="/assets/img/icons/violencia-genero.svg" class="service-svg-icon" alt="">
                 <h3>Violencia de Género</h3>
                 <p>El día que te das cuenta de que mereces ser tratada con amor y respeto, es el día que comienza tu verdadera libertad.</p>
             </a>
 
             <a href="/duelo/" class="service-card">
-                <div class="service-icon">💭</div>
+                <img src="/assets/img/icons/duelo.svg" class="service-svg-icon" alt="">
                 <h3>Duelo</h3>
                 <p>El duelo no es algo que superas; es algo que integras. No se trata de olvidar a quien perdiste, sino de aprender a llevarlo contigo mientras vuelves a vivir.</p>
             </a>
 
             <a href="/trastornos-conducta-alimentaria/" class="service-card">
-                <div class="service-icon">🥗</div>
+                <img src="/assets/img/icons/tca.svg" class="service-svg-icon" alt="">
                 <h3>Trastornos de la Conducta Alimentaria</h3>
                 <p>Cuando el TCA habla tan fuerte que ya no escuchas tu propia voz, la recuperación comienza susurrando: <i>«tú eres más que este trastorno».</i></p>
             </a>
-
-
-
-
 
         </div>
 

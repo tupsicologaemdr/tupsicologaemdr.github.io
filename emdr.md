@@ -129,9 +129,5 @@ subtitle: Desensibilización y Reprocesamiento por Movimientos Oculares
         </div>
     </section>
     
-    <div class="emdr-cta">
-        <h2>¿Crees que el EMDR puede ayudarte?</h2>
-        <p>Contacta conmigo para valorar si esta terapia es adecuada para ti</p>
-        <a href="/contacto" class="btn btn-primary">Solicitar Información</a>
-    </div>
+    {% include service-cta.html %}
 </div>
