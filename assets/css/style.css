@@ -1,6 +1,6 @@
 /* Unified style for paragraphs and lists across all pages */
 p, .page-content p, .approach p, .modalities p, .services-preview p, .site-footer p {
-    font-family: 'Lato', sans-serif;
+    font-family: var(--font-body);
     font-size: 1.1rem;
     color: var(--text-light);
     margin-bottom: 1.5rem;
@@ -193,17 +193,27 @@ p.about-highlight {
 }
 /* Color palette and typography */
 :root {
-    --primary-pink: #F5E1E6;
-    --secondary-pink: #FFB3C1;
-    --primary-brown: #8B6F47;
-    --secondary-brown: #A0845C;
-    --cream: #FFF8F3;
-    --light-cream: #FFFBF7;
-    --text-dark: #3A3A3A;
-    --text-light: #6B6B6B;
+    /* Nueva Paleta Lavanda, Rosa Claro y Arena */
+    --primary-lavender: #5C3D82;    /* Tono lavanda oscuro para títulos y legibilidad */
+    --secondary-lavender: #785ab2;  /* Tono lavanda medio (coincide con el logotipo) */
+    --lavender-light: #EFEAF6;      /* Fondo lavanda muy suave para cajas destacadas */
+    --primary-pink: #FDF3F5;       /* Rosa pastel muy claro y cálido */
+    --secondary-pink: #EBA9B8;     /* Rosa medio para acentos y estados hover */
+    --cream: #FAF6F0;              /* Arena base (cálido y acogedor) */
+    --light-cream: #FFFDFB;        /* Arena ultra claro */
+    --text-dark: #2A2433;           /* Gris pizarra oscuro con matiz morado */
+    --text-light: #5A5266;          /* Gris medio con matiz morado */
     --white: #FFFFFF;
-    --shadow-light: rgba(139, 111, 71, 0.1);
-    --shadow-medium: rgba(139, 111, 71, 0.15);
+    --shadow-light: rgba(92, 61, 130, 0.06);
+    --shadow-medium: rgba(92, 61, 130, 0.1);
+    
+    /* Fuentes */
+    --font-header: 'Playfair Display', Georgia, serif;
+    --font-body: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    
+    /* Mapeos de compatibilidad con variables antiguas */
+    --primary-brown: var(--primary-lavender);
+    --secondary-brown: var(--secondary-lavender);
 }
 
 * {
@@ -213,14 +223,14 @@ p.about-highlight {
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: var(--font-body);
     color: var(--text-dark);
     background-color: var(--light-cream);
     line-height: 1.6;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather', serif;
+    font-family: var(--font-header);
     color: var(--primary-brown);
     margin-bottom: 1rem;
 }
@@ -446,6 +456,18 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--secondary-brown);
     font-weight: 400;
     margin-bottom: 1rem;
+}
+
+.hero-badge {
+    display: inline-block;
+    background-color: var(--lavender-light);
+    color: var(--primary-lavender);
+    font-weight: 600;
+    padding: 0.35rem 1rem;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    margin-bottom: 1.2rem;
+    border: 1px solid var(--secondary-pink);
 }
 
 .hero-description {
@@ -1395,4 +1417,174 @@ ul.check-list li::before {
     margin-bottom: 0;
     color: var(--text-dark);
 }
+
+/* Redesign Overrides and Additions */
+
+/* Font overrides for specific sections */
+.consent-banner, .consent-btn, .faq-accordion summary::after, .faq-accordion .faq-answer {
+    font-family: var(--font-body) !important;
+}
+.consent-title, .faq-accordion summary {
+    font-family: var(--font-header) !important;
+}
+
+/* Service SVG Icons Styling */
+.service-svg-icon {
+    width: 56px;
+    height: 56px;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-lavender);
+    transition: transform 0.3s ease;
+}
+.service-card:hover .service-svg-icon {
+    transform: scale(1.1);
+}
+
+/* WhatsApp Header Button */
+.whatsapp-header-container {
+    margin-left: 1.5rem;
+    display: flex;
+    align-items: center;
+}
+.whatsapp-header-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: #25D366;
+    color: #ffffff !important;
+    padding: 0.5rem 1.2rem !important;
+    border-radius: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 0.95rem;
+    box-shadow: 0 4px 10px rgba(37, 211, 102, 0.15);
+    transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+.whatsapp-header-btn:hover {
+    background-color: #20ba5a;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(37, 211, 102, 0.25);
+    color: #ffffff !important;
+}
+.whatsapp-header-icon svg {
+    display: block;
+    width: 18px;
+    height: 18px;
+}
+
+/* Sticky Contact Bar for Mobile */
+.sticky-contact-bar {
+    position: fixed;
+    bottom: -80px; /* Hidden initially */
+    left: 0;
+    right: 0;
+    height: 64px;
+    background: var(--white);
+    border-top: 1px solid var(--primary-pink);
+    box-shadow: 0 -4px 20px rgba(92, 61, 130, 0.08);
+    display: none;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 10px 15px;
+    z-index: 1000;
+    transition: bottom 0.3s ease;
+}
+
+/* Display only on mobile screens */
+@media (max-width: 768px) {
+    .sticky-contact-bar {
+        display: grid;
+        bottom: 0; /* Always visible at the bottom of mobile screens */
+    }
+    
+    /* Adjust body padding so content isn't hidden behind the sticky bar */
+    body {
+        padding-bottom: 64px;
+    }
+}
+
+.sticky-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border-radius: 12px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background-color 0.2s, transform 0.2s;
+}
+.sticky-btn:active {
+    transform: scale(0.97);
+}
+.phone-btn {
+    background-color: var(--primary-lavender);
+    color: var(--white);
+}
+.phone-btn:hover {
+    background-color: #492e69;
+}
+.whatsapp-btn {
+    background-color: #25D366;
+    color: var(--white);
+}
+.whatsapp-btn:hover {
+    background-color: #20ba5a;
+}
+.sticky-btn-icon {
+    font-size: 1.1rem;
+}
+
+/* Service CTA Section Styling */
+.service-cta-section {
+    background: linear-gradient(135deg, var(--primary-pink) 0%, var(--cream) 100%);
+    padding: 5rem 0;
+    margin-top: 4rem;
+    border-radius: 30px;
+    text-align: center;
+    border: 1px solid rgba(92, 61, 130, 0.08);
+}
+.service-cta-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+.service-cta-container h2 {
+    font-size: 2.2rem;
+    color: var(--primary-lavender);
+    margin-bottom: 1.5rem;
+}
+.service-cta-container p {
+    font-size: 1.15rem;
+    color: var(--text-light);
+    margin-bottom: 2.5rem;
+}
+.service-cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+}
+.whatsapp-cta-btn {
+    background-color: #25D366;
+    color: var(--white) !important;
+    border: none;
+    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.2);
+}
+.whatsapp-cta-btn:hover {
+    background-color: #20ba5a;
+    color: var(--white) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(37, 211, 102, 0.3);
+}
+.service-cta-subtext {
+    font-size: 0.85rem !important;
+    color: var(--text-light) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+}
+
 
