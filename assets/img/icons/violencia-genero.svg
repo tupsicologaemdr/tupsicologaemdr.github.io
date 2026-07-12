@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#785ab2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Soft background fill inside the circle -->
+  <circle cx="32" cy="22" r="12" fill="#FDF3F5" stroke="none" />
+  <!-- Venus symbol (♀) outline -->
+  <circle cx="32" cy="22" r="12" stroke="#785ab2" stroke-width="3" />
+  <path d="M32 34v18M22 43h20" stroke="#785ab2" stroke-width="3" />
+  <!-- Sprout/leaf growing inside the circle -->
+  <path d="M32 30c-2-4-6-6-6-6s4 1 6 3c2-2 6-3 6-3s-4 2-6 6" stroke="#785ab2" stroke-width="2" />
+</svg>

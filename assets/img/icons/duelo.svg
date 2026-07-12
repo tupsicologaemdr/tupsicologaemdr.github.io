@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#785ab2" stroke-linecap="round" stroke-linejoin="round">
+  <defs>
+    <!-- Recorte con el contorno de la pluma para evitar desbordes -->
+    <clipPath id="feather-clip">
+      <path d="M12 52 C 10 42, 14 32, 22 24 C 28 17, 36 12, 48 10 C 47 16, 44 26, 36 34 C 28 42, 18 49, 12 52 Z" />
+    </clipPath>
+  </defs>
+
+  <!-- Contorno exterior con fondo rosa claro -->
+  <path d="M12 52 C 10 42, 14 32, 22 24 C 28 17, 36 12, 48 10 C 47 16, 44 26, 36 34 C 28 42, 18 49, 12 52 Z" fill="#FDF3F5" stroke="#785ab2" stroke-width="2.5" />
+
+  <!-- Eje central de la pluma -->
+  <path d="M12 52 C 24 42, 36 26, 48 10" stroke="#785ab2" stroke-width="3.5" />
+  <!-- Base inferior expuesta -->
+  <path d="M12 52c-1.5 1.5-3.5 3.5-5 5" stroke="#785ab2" stroke-width="2.5" />
+
+  <!-- Trazos internos simplificados y recortados -->
+  <g clip-path="url(#feather-clip)">
+    <!-- Lado izquierdo (hacia arriba e izquierda) -->
+    <path d="M22 42l-8-8" stroke="#785ab2" stroke-width="1.2" opacity="0.6" />
+    <path d="M30 34l-8-8" stroke="#785ab2" stroke-width="1.2" opacity="0.6" />
+    <path d="M38 26l-8-8" stroke="#785ab2" stroke-width="1.2" opacity="0.6" />
+    
+    <!-- Lado derecho (hacia arriba y derecha) -->
+    <path d="M26 40l8-8" stroke="#785ab2" stroke-width="1.2" opacity="0.6" />
+    <path d="M34 32l8-8" stroke="#785ab2" stroke-width="1.2" opacity="0.6" />
+    <path d="M42 24l8-8" stroke="#785ab2" stroke-width="1.2" opacity="0.6" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#785ab2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Plato circular central con fondo rosa claro de la marca -->
+  <circle cx="32" cy="32" r="16" fill="#FDF3F5" stroke="#785ab2" stroke-width="3" />
+  <!-- Borde interior del plato -->
+  <circle cx="32" cy="32" r="11" stroke="#785ab2" stroke-width="1.5" opacity="0.6" />
+  
+  <!-- Tenedor a la izquierda -->
+  <!-- Mango del tenedor -->
+  <path d="M12 48v-18" stroke="#785ab2" stroke-width="2.5" />
+  <!-- Cabeza y dientes del tenedor -->
+  <path d="M9 20h6v6c0 2-1.5 4-3 4s-3-2-3-4v-6z" stroke="#785ab2" stroke-width="2.5" />
+  <path d="M12 20v6" stroke="#785ab2" stroke-width="2" />
+  
+  <!-- Cuchara a la derecha -->
+  <!-- Mango de la cuchara -->
+  <path d="M52 48v-18" stroke="#785ab2" stroke-width="2.5" />
+  <!-- Cabeza ovalada de la cuchara -->
+  <path d="M52 30c2.5 0 4-2.5 4-5s-1.5-5-4-5s-4 2.5-4 5s1.5 5 4 5z" fill="#FDF3F5" stroke="#785ab2" stroke-width="2.5" />
+</svg>

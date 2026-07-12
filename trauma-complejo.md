@@ -123,9 +123,4 @@ La primera sesión es orientativa. No para decidir nada, sino para que puedas en
 
 <div class="elfsight-app-59108b42-c470-4629-b1db-6a7179480ede" data-elfsight-app-lazy></div>
 
-<div class="cta">
-    <a href="https://wa.me/34722628237" target="_blank" rel="noopener" title="Contactar por WhatsApp" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Contactar-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Contactar por WhatsApp" class="whatsapp-badge">
-    </a>
-    <a href="/contacto" class="btn contact-btn">Ir al formulario de contacto</a>
-</div>
+{% include service-cta.html %}
