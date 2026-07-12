@@ -1,0 +1,36 @@
+<div class="quick-contact-form-container">
+    <h3>Contacto Rápido</h3>
+    <form action="https://formspree.io/f/xpwynpyw" method="POST" class="quick-contact-form">
+        <input type="hidden" name="_subject" value="Nuevo contacto rápido desde {{ page.title | default: 'Inicio' }}">
+        
+        <div class="form-group">
+            <label for="quick-name-{{ include.id }}">Nombre *</label>
+            <input type="text" id="quick-name-{{ include.id }}" name="name" required placeholder="Tu nombre">
+        </div>
+        
+        <div class="form-grid-2">
+            <div class="form-group">
+                <label for="quick-email-{{ include.id }}">Email *</label>
+                <input type="email" id="quick-email-{{ include.id }}" name="email" required placeholder="Tu email">
+            </div>
+            <div class="form-group">
+                <label for="quick-phone-{{ include.id }}">Teléfono</label>
+                <input type="tel" id="quick-phone-{{ include.id }}" name="phone" placeholder="Tu teléfono">
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="quick-message-{{ include.id }}">¿Cómo te puedo ayudar? *</label>
+            <textarea id="quick-message-{{ include.id }}" name="message" rows="3" required placeholder="Escribe tu mensaje..."></textarea>
+        </div>
+        
+        <div class="form-group checkbox-group">
+            <label class="checkbox-label">
+                <input type="checkbox" name="privacy" required>
+                <span>He leído y acepto la <a href="/privacidad" target="_blank">política de privacidad</a> *</span>
+            </label>
+        </div>
+        
+        <button type="submit" class="btn btn-primary btn-full">Enviar mensaje rápido</button>
+    </form>
+</div>

@@ -1,15 +1,29 @@
 <section class="service-cta-section">
     <div class="service-cta-container">
-        <h2>¿Quieres dar el primer paso?</h2>
-        <p>Si te identificas con esto y buscas acompañamiento en tu proceso de cambio, puedes contactarme para valorar tu caso y agendar una primera sesión.</p>
-        
-        <div class="service-cta-buttons">
-            <a href="/contacto" class="btn btn-secondary btn-large">Solicitar Primera Consulta</a>
-            <a href="https://wa.me/34722628237" target="_blank" rel="noopener" class="btn btn-primary btn-large whatsapp-cta-btn">
-                <span>💬</span> Contactar por WhatsApp
-            </a>
+        <div class="service-cta-grid">
+            <div class="service-cta-info">
+                <h2>¿Quieres dar el primer paso?</h2>
+                <p>Si te identificas con esto y buscas acompañamiento en tu proceso de cambio, puedes escribirme a través del formulario rápido o por WhatsApp para valorar tu caso y agendar una primera sesión.</p>
+                
+                <div class="service-cta-buttons">
+                    <a href="https://wa.me/34722628237" target="_blank" rel="noopener" class="btn btn-primary whatsapp-cta-btn">
+                        <span>💬</span> WhatsApp
+                    </a>
+                    <a href="tel:+34722628237" class="btn btn-outline phone-cta-btn">
+                        <span>📞</span> Llamar
+                    </a>
+                </div>
+                
+                <p class="service-cta-rates">
+                    ¿Quieres conocer los precios? Consulta mis <a href="/tarifas">tarifas y bonos de sesiones</a>.
+                </p>
+                
+                <p class="service-cta-subtext">Carmen María Martín Fuentes<br>Colegiada AO13008 | Centro Sanitario NICA 69456</p>
+            </div>
+            
+            <div class="service-cta-form">
+                {% include quick-contact-form.html id="landing" %}
+            </div>
         </div>
-        
-        <p class="service-cta-subtext">Colegiada AO13008 | Centro Sanitario Autorizado NICA 69456</p>
     </div>
 </section>
