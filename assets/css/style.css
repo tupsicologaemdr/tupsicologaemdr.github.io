@@ -1473,68 +1473,7 @@ ul.check-list li::before {
     height: 18px;
 }
 
-/* Sticky Contact Bar for Mobile */
-.sticky-contact-bar {
-    position: fixed;
-    bottom: -80px; /* Hidden initially */
-    left: 0;
-    right: 0;
-    height: 64px;
-    background: var(--white);
-    border-top: 1px solid var(--primary-pink);
-    box-shadow: 0 -4px 20px rgba(92, 61, 130, 0.08);
-    display: none;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
-    padding: 10px 15px;
-    z-index: 1000;
-    transition: bottom 0.3s ease;
-}
 
-/* Display only on mobile screens */
-@media (max-width: 768px) {
-    .sticky-contact-bar {
-        display: grid;
-        bottom: 0; /* Always visible at the bottom of mobile screens */
-    }
-    
-    /* Adjust body padding so content isn't hidden behind the sticky bar */
-    body {
-        padding-bottom: 64px;
-    }
-}
-
-.sticky-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    border-radius: 12px;
-    font-size: 0.95rem;
-    font-weight: 700;
-    text-decoration: none;
-    transition: background-color 0.2s, transform 0.2s;
-}
-.sticky-btn:active {
-    transform: scale(0.97);
-}
-.phone-btn {
-    background-color: var(--primary-lavender);
-    color: var(--white);
-}
-.phone-btn:hover {
-    background-color: #492e69;
-}
-.whatsapp-btn {
-    background-color: #25D366;
-    color: var(--white);
-}
-.whatsapp-btn:hover {
-    background-color: #20ba5a;
-}
-.sticky-btn-icon {
-    font-size: 1.1rem;
-}
 
 /* Service CTA Section (Renewed for 2 Columns) */
 .service-cta-section {
@@ -1764,5 +1703,96 @@ ul.check-list li::before {
     }
 }
 
+/* Sticky Contact Bar for Mobile and Desktop */
+.sticky-contact-bar {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    left: auto;
+    width: 220px;
+    height: auto;
+    background: var(--white);
+    border: 1px solid rgba(92, 61, 130, 0.1);
+    box-shadow: 0 10px 30px rgba(92, 61, 130, 0.15);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 20px 18px;
+    z-index: 1000;
+    transition: all 0.3s ease;
+}
 
+/* Adjustments for sticky buttons & SVG icon size */
+.sticky-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 12px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 12px 15px;
+    transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+.sticky-btn:active {
+    transform: scale(0.97);
+}
+.phone-btn {
+    background-color: var(--primary-lavender);
+    color: var(--white);
+}
+.phone-btn:hover {
+    background-color: #492e69;
+    box-shadow: 0 4px 12px rgba(92, 61, 130, 0.2);
+}
+.whatsapp-btn {
+    background-color: #25D366;
+    color: var(--white);
+}
+.whatsapp-btn:hover {
+    background-color: #20ba5a;
+    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.2);
+}
+.sticky-btn-icon {
+    display: flex;
+    align-items: center;
+    width: 18px;
+    height: 18px;
+}
+.sticky-btn-icon svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
 
+/* Responsive display - bottom horizontal bar on mobile screens */
+@media (max-width: 768px) {
+    .sticky-contact-bar {
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 64px;
+        border-radius: 0;
+        border: none;
+        border-top: 1px solid var(--primary-pink);
+        box-shadow: 0 -4px 20px rgba(92, 61, 130, 0.08);
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+        padding: 10px 15px;
+        flex-direction: row;
+    }
+    
+    .sticky-btn {
+        padding: 0 10px;
+        font-size: 0.9rem;
+    }
+    
+    /* Adjust body padding so content isn't hidden behind the sticky bar */
+    body {
+        padding-bottom: 64px;
+    }
+}
