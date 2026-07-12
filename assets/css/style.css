@@ -1796,3 +1796,30 @@ ul.check-list li::before {
         padding-bottom: 64px;
     }
 }
+
+/* Service CTA Rates Link Styling */
+.service-cta-rates {
+    font-size: 0.95rem !important;
+    margin-bottom: 1.25rem !important;
+    color: var(--text-light) !important;
+}
+.cta-home-info .service-cta-rates {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+.service-cta-rates a {
+    color: var(--primary-lavender);
+    font-weight: 700;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+.service-cta-rates a:hover {
+    color: var(--secondary-lavender);
+}
+.cta-home-info .service-cta-rates a {
+    color: var(--secondary-pink);
+    text-decoration: underline;
+}
+.cta-home-info .service-cta-rates a:hover {
+    color: var(--white);
+}
+

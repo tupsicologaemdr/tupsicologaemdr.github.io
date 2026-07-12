@@ -281,6 +281,9 @@ layout: default
                         <span>📞</span> Llamar
                     </a>
                 </div>
+                <p class="service-cta-rates">
+                    ¿Quieres conocer los precios? Consulta mis <a href="/tarifas">tarifas y bonos de sesiones</a>.
+                </p>
                 <p class="service-cta-subtext">Colegiada AO13008 | Centro Sanitario NICA 69456</p>
             </div>
             <div class="cta-home-form">
