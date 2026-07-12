@@ -1536,36 +1536,50 @@ ul.check-list li::before {
     font-size: 1.1rem;
 }
 
-/* Service CTA Section Styling */
+/* Service CTA Section (Renewed for 2 Columns) */
 .service-cta-section {
     background: linear-gradient(135deg, var(--primary-pink) 0%, var(--cream) 100%);
-    padding: 5rem 0;
+    padding: 4rem 2rem;
     margin-top: 4rem;
     border-radius: 30px;
-    text-align: center;
     border: 1px solid rgba(92, 61, 130, 0.08);
 }
 .service-cta-container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 0 1.5rem;
+    padding: 0;
 }
-.service-cta-container h2 {
+.service-cta-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+    gap: 3.5rem;
+    align-items: center;
+}
+.service-cta-info {
+    text-align: left;
+}
+.service-cta-info h2 {
     font-size: 2.2rem;
     color: var(--primary-lavender);
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-family: var(--font-header);
+    line-height: 1.3;
 }
-.service-cta-container p {
-    font-size: 1.15rem;
+.service-cta-info p {
+    font-size: 1.05rem;
     color: var(--text-light);
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
 }
 .service-cta-buttons {
     display: flex;
-    justify-content: center;
-    gap: 1.5rem;
-    flex-wrap: wrap;
+    gap: 1rem;
     margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+.service-cta-buttons .btn {
+    padding: 0.8rem 1.8rem;
+    font-size: 0.95rem;
 }
 .whatsapp-cta-btn {
     background-color: #25D366;
@@ -1579,12 +1593,176 @@ ul.check-list li::before {
     transform: translateY(-2px);
     box-shadow: 0 6px 18px rgba(37, 211, 102, 0.3);
 }
+.phone-cta-btn {
+    border-color: var(--primary-lavender);
+    color: var(--primary-lavender);
+}
+.phone-cta-btn:hover {
+    background-color: var(--primary-lavender);
+    color: var(--white);
+}
 .service-cta-subtext {
     font-size: 0.85rem !important;
     color: var(--text-light) !important;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-weight: 600;
+    line-height: 1.4;
 }
+
+/* Quick Contact Form styles */
+.quick-contact-form-container {
+    background: var(--white);
+    padding: 2.2rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px var(--shadow-medium);
+    border: 1px solid rgba(92, 61, 130, 0.05);
+    text-align: left;
+}
+.quick-contact-form-container h3 {
+    color: var(--primary-lavender);
+    font-size: 1.4rem;
+    margin-bottom: 1.25rem;
+    font-family: var(--font-header);
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+.quick-contact-form-container h3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    height: 3px;
+    background-color: var(--secondary-pink);
+    border-radius: 2px;
+}
+.quick-contact-form-container .form-group {
+    margin-bottom: 1.2rem;
+}
+.quick-contact-form-container .form-group label {
+    display: block;
+    margin-bottom: 0.4rem;
+    color: var(--text-dark);
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+.quick-contact-form-container .form-group input,
+.quick-contact-form-container .form-group textarea {
+    width: 100%;
+    padding: 0.65rem 0.8rem;
+    border: 2px solid var(--cream);
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    transition: border-color 0.3s ease;
+}
+.quick-contact-form-container .form-group input:focus,
+.quick-contact-form-container .form-group textarea:focus {
+    outline: none;
+    border-color: var(--secondary-pink);
+}
+.form-grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+@media (max-width: 576px) {
+    .form-grid-2 {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+}
+.checkbox-group {
+    margin-top: 0.8rem;
+    margin-bottom: 1.2rem;
+}
+.checkbox-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    font-size: 0.8rem;
+    color: var(--text-light);
+    cursor: pointer;
+    line-height: 1.4;
+}
+.checkbox-label input {
+    margin-top: 3px;
+    width: auto !important;
+}
+.btn-full {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+/* CTA Home Section */
+.cta-home {
+    background: linear-gradient(135deg, var(--primary-lavender) 0%, var(--secondary-lavender) 100%);
+    padding: 4rem 2rem;
+    border-radius: 30px;
+    margin: 4rem 0;
+    color: var(--white);
+}
+.cta-home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+    gap: 3.5rem;
+    align-items: center;
+}
+.cta-home-info {
+    text-align: left;
+}
+.cta-home-info h2 {
+    color: var(--white);
+    font-size: 2.2rem;
+    margin-bottom: 1.2rem;
+    font-family: var(--font-header);
+    line-height: 1.3;
+}
+.cta-home-info p {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1.05rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+}
+.cta-home-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+.cta-home-buttons .btn {
+    padding: 0.8rem 1.8rem;
+    font-size: 0.95rem;
+}
+.cta-home-info .service-cta-subtext {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.cta-home-info .btn-outline {
+    border-color: var(--white);
+    color: var(--white);
+}
+.cta-home-info .btn-outline:hover {
+    background-color: var(--white);
+    color: var(--primary-lavender);
+}
+
+@media (max-width: 992px) {
+    .service-cta-section, .cta-home {
+        padding: 3rem 1.5rem;
+    }
+    .service-cta-grid, .cta-home-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+    }
+    .service-cta-info, .cta-home-info {
+        text-align: center;
+    }
+    .service-cta-buttons, .cta-home-buttons {
+        justify-content: center;
+    }
+}
+
 
 

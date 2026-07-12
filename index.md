@@ -267,12 +267,26 @@ layout: default
     </div>
 </section>
 
-<section class="cta">
+<section class="cta-home">
     <div class="container">
-        <div class="cta-content">
-            <h2>Reserva tu consulta de psicología en Granada (Zaidín)</h2>
-            <p>Estoy aquí para acompañarte en tu proceso de cambio</p>
-            <a href="/contacto" class="btn btn-primary btn-large">Reservar Primera Consulta</a>
+        <div class="cta-home-grid">
+            <div class="cta-home-info">
+                <h2>Reserva tu consulta de psicología en Granada (Zaidín)</h2>
+                <p>Estoy aquí para acompañarte en tu proceso de cambio. Solicita tu primera sesión rellenando el formulario rápido o contactando directamente por WhatsApp.</p>
+                <div class="cta-home-buttons">
+                    <a href="https://wa.me/34722628237" target="_blank" rel="noopener" class="btn btn-primary whatsapp-cta-btn">
+                        <span>💬</span> WhatsApp
+                    </a>
+                    <a href="tel:+34722628237" class="btn btn-outline phone-cta-btn">
+                        <span>📞</span> Llamar
+                    </a>
+                </div>
+                <p class="service-cta-subtext">Colegiada AO13008 | Centro Sanitario NICA 69456</p>
+            </div>
+            <div class="cta-home-form">
+                {% include quick-contact-form.html id="home" %}
+            </div>
         </div>
     </div>
 </section>
+
